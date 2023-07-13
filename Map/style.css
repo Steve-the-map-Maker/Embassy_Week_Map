@@ -1,0 +1,96 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.maplibregl-popup-content {
+  margin: 0;
+  padding: 0;
+  border-radius: 15px;
+}
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  z-index: 0;
+  width: 100%;
+}
+
+.map-overlay {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 2; /* Ensure the button is above the map */
+}
+
+/* Style the filter button */
+#filter-button {
+  background-color: #4caf50;
+  color: white;
+  font-size: 14px;
+  padding: 8px 16px;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+  text-align: center;
+}
+
+/* Change the button color on hover */
+.map-popup {
+  background-color: #b6df8d;
+  border-radius: 5px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.3), 0 0 0 2px black; /* Add black outline */
+  color: #333;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  max-width: 300px;
+  padding: 10px;
+  text-align: left;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.map-popup h4 {
+  font-size: 18px;
+  margin-top: 0;
+  color: #2a2e2a;
+}
+
+.map-popup p {
+  margin-bottom: 8px;
+  color: #333;
+}
+
+.map-popup a {
+  color: #428bca;
+  text-decoration: none;
+}
+
+.map-popup a:hover {
+  text-decoration: underline;
+}
+
+.hover-popup-content {
+  background-color: #b6df8d;
+  border-radius: 5px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.3);
+  color: #333;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  max-width: 300px;
+  padding: 10px;
+  text-align: left;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#user-location-button {
+  background-color: #4caf50;
+  color: white;
+  font-size: 14px;
+  padding: 8px 16px;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+  text-align: center;
+}

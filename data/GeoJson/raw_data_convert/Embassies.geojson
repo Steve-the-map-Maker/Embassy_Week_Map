@@ -1,0 +1,4968 @@
+{
+    "type": "FeatureCollection",
+    "name": "Embassies",
+    "crs": {
+      "type": "name",
+      "properties": {
+        "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+      }
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 1,
+          "EMB_TITLE": "Embassy of the Republic of Uganda",
+          "COUNTRY": "Uganda",
+          "ADDRESS": "5911 16TH STREET NW",
+          "TELEPHONE": "(202) 726-7100",
+          "WEBURL": "http://www.ugandaembassy.com/",
+          "GIS_ID": "temp_168",
+          "XCOORD": 396878.74,
+          "YCOORD": 143685.24,
+          "MAR_ID": 256082,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{0B5F67C7-C255-43C4-A3A8-8267D2585409}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.0360156180982,
+            38.9610780239271
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 2,
+          "EMB_TITLE": "Embassy of the Republic of Liberia",
+          "COUNTRY": "Liberia",
+          "ADDRESS": "5201 16TH STREET NW",
+          "TELEPHONE": "(202) 723-0437",
+          "WEBURL": "http://www.embassyofliberia.org",
+          "GIS_ID": "temp_154",
+          "XCOORD": 396878.05,
+          "YCOORD": 142837.38,
+          "MAR_ID": 255869,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{F19F562A-6AE6-48E1-8DC8-9AB739CDA7A9}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.0360197191967,
+            38.95344027586204
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 3,
+          "EMB_TITLE": "The Royal Embassy of Cambodia",
+          "COUNTRY": "Cambodia",
+          "ADDRESS": "4530 16TH STREET NW",
+          "TELEPHONE": "(202) 726-7742",
+          "WEBURL": "http://www.embassyofcambodia.org/",
+          "GIS_ID": "temp_15",
+          "XCOORD": 396810.06,
+          "YCOORD": 141999.39,
+          "MAR_ID": 258700,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{CDA65BA4-F386-407D-8B64-6ED55508DA97}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.03680022279742,
+            38.945891177306656
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 4,
+          "EMB_TITLE": "Embassy of the Slovak Republic",
+          "COUNTRY": "Slovak Republic",
+          "ADDRESS": "3523 INTERNATIONAL COURT NW",
+          "TELEPHONE": "(202) 237-1054",
+          "WEBURL": "http://www.mzv.sk/washington",
+          "GIS_ID": "temp_143",
+          "XCOORD": 394094.42,
+          "YCOORD": 141964.23,
+          "MAR_ID": 294581,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{E0BC4CB8-823D-4D68-9220-B51836FE098C}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.06812648156996,
+            38.945560395568705
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 5,
+          "EMB_TITLE": "Embassy of Austria",
+          "COUNTRY": "Austria",
+          "ADDRESS": "3524 INTERNATIONAL COURT NW",
+          "TELEPHONE": "(202) 895-6700",
+          "WEBURL": "http://www.austria.org/",
+          "GIS_ID": "temp_133",
+          "XCOORD": 393991.13,
+          "YCOORD": 141946.67,
+          "MAR_ID": 294582,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{23CD51FC-0532-4C54-8D3C-E49B2F7A89CF}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.06931783569013,
+            38.94540150966792
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 6,
+          "EMB_TITLE": "Embassy of the Arab Republic of Egypt",
+          "COUNTRY": "Egypt",
+          "ADDRESS": "3521 INTERNATIONAL COURT NW",
+          "TELEPHONE": "(202) 895-5400",
+          "WEBURL": "http://www.egyptembassy.net/",
+          "GIS_ID": "temp_132",
+          "XCOORD": 394095.55,
+          "YCOORD": 141907.62,
+          "MAR_ID": 294580,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{BA3274DD-966E-4FFB-8BD6-9FD460F22A35}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.06811295912996,
+            38.945050444328196
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 7,
+          "EMB_TITLE": "Embassy of the United Arab Emirates",
+          "COUNTRY": "United Arab Emirates",
+          "ADDRESS": "3522 INTERNATIONAL COURT NW",
+          "TELEPHONE": "(202) 243-2400",
+          "WEBURL": "http://uae-embassy.org/",
+          "GIS_ID": "temp_141",
+          "XCOORD": 393994.19,
+          "YCOORD": 141901.32,
+          "MAR_ID": 294617,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{A01C6980-9378-458E-A35B-CD3C86F5CECE}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.06928213991783,
+            38.94499300500694
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 8,
+          "EMB_TITLE": "Embassy of the Republic of Suriname",
+          "COUNTRY": "Suriname",
+          "ADDRESS": "4301 CONNECTICUT AVENUE NW",
+          "TELEPHONE": "(202) 244-7488",
+          "WEBURL": "http://surinameembassy.org",
+          "GIS_ID": "temp_122",
+          "XCOORD": 394529.13,
+          "YCOORD": 141877.52,
+          "MAR_ID": 220629,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{C176E278-BCF7-4B3D-8A55-E3F3E468B46A}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.0631111667319,
+            38.944782102342444
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 9,
+          "EMB_TITLE": "Embassy of Brunei Darussalam",
+          "COUNTRY": "Brunei Darussalam",
+          "ADDRESS": "3520 INTERNATIONAL COURT NW",
+          "TELEPHONE": "(202) 237-1838",
+          "WEBURL": "http://www.bruneiembassy.org/",
+          "GIS_ID": "temp_135",
+          "XCOORD": 393993.7,
+          "YCOORD": 141846.1,
+          "MAR_ID": 294579,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{5C5E4C39-AA8D-4FB7-9885-D78B31CE0C8E}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.06928730881278,
+            38.9444955642829
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 10,
+          "EMB_TITLE": "Royal Netherlands Embassy",
+          "COUNTRY": "Netherlands",
+          "ADDRESS": "4200 LINNEAN AVENUE NW",
+          "TELEPHONE": "(877) 388-2443",
+          "WEBURL": "http://dc.the-netherlands.org/",
+          "GIS_ID": "temp_57",
+          "XCOORD": 395120.61,
+          "YCOORD": 141843.76,
+          "MAR_ID": 223096,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{0D52FBFC-418E-49EE-B453-1461970FB8D4}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05628794769856,
+            38.94448146728161
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 11,
+          "EMB_TITLE": "Embassy of the Federal Republic of Nigeria",
+          "COUNTRY": "Nigeria",
+          "ADDRESS": "3519 INTERNATIONAL COURT NW",
+          "TELEPHONE": "(202) 986-8400",
+          "WEBURL": "http://www.nigeriaembassyusa.org/",
+          "GIS_ID": "temp_146",
+          "XCOORD": 394091.74,
+          "YCOORD": 141807.97,
+          "MAR_ID": 308555,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{913F453D-38D0-4D39-B370-FDFD8C0331C9}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.06813967227812,
+            38.94419042551371
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 12,
+          "EMB_TITLE": "Embassy of Malaysia",
+          "COUNTRY": "Malaysia",
+          "ADDRESS": "3516 INTERNATIONAL COURT NW",
+          "TELEPHONE": "(202) 572-9700",
+          "WEBURL": "http://www.kln.gov.my/web/usa_washington/home",
+          "GIS_ID": "temp_142",
+          "XCOORD": 394003.29,
+          "YCOORD": 141776.92,
+          "MAR_ID": 294576,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{045827B9-D058-4595-BA00-83950AF98F02}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.06917607971403,
+            38.9438724367325
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 13,
+          "EMB_TITLE": "Embassy of the Republic of China on Taiwan",
+          "COUNTRY": "Taiwan",
+          "ADDRESS": "4201 WISCONSIN AVENUE NW",
+          "TELEPHONE": "(202) 895-1800\n",
+          "WEBURL": "http://www.taiwanembassy.org/US/mp.asp?mp=12",
+          "GIS_ID": "temp_28",
+          "XCOORD": 393349.65,
+          "YCOORD": 141732.69,
+          "MAR_ID": 222288,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{5C9618F4-6236-4726-988B-A0437BA65530}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.07671557502493,
+            38.943469295122696
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 14,
+          "EMB_TITLE": "Embassy of the Democractic Republic of East Timor",
+          "COUNTRY": "East Timor",
+          "ADDRESS": "4201 CONNECTICUT AVENUE NW",
+          "TELEPHONE": "(202) 966-3202",
+          "WEBURL": "http://www.timorlesteembassy.org/",
+          "GIS_ID": "temp_148",
+          "XCOORD": 394570.14,
+          "YCOORD": 141732.62,
+          "MAR_ID": 220631,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{93C4299F-8598-4799-9215-EA3B45A206AF}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.06263695166281,
+            38.943477056399495
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 15,
+          "EMB_TITLE": "Embassy of the Islamic Republic of Pakistan",
+          "COUNTRY": "Pakistan",
+          "ADDRESS": "3517 INTERNATIONAL COURT NW",
+          "TELEPHONE": "(202) 243-6500",
+          "WEBURL": "http://www.embassyofpakistanusa.org/",
+          "GIS_ID": "temp_144",
+          "XCOORD": 394091.12,
+          "YCOORD": 141727,
+          "MAR_ID": 294577,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{AD6D570A-AE40-4C60-9092-EB9AEF5C6E57}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.06816250552798,
+            38.94342333833491
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 16,
+          "EMB_TITLE": "Embassy of the People's Republic of China",
+          "COUNTRY": "China",
+          "ADDRESS": "3505 INTERNATIONAL PLACE NW",
+          "TELEPHONE": "(202) 495-2266",
+          "WEBURL": "http://www.china-embassy.org/eng/",
+          "GIS_ID": "temp_32",
+          "XCOORD": 394237.93,
+          "YCOORD": 141644.57,
+          "MAR_ID": 301580,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{7C291EB6-B355-4BEE-8F48-17CBC816040F}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.0663585853857,
+            38.94275815918141
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 17,
+          "EMB_TITLE": "Embassy of Israel",
+          "COUNTRY": "Israel",
+          "ADDRESS": "3514 INTERNATIONAL DRIVE NW",
+          "TELEPHONE": "(202) 364-5500",
+          "WEBURL": "http://www.israelemb.org/",
+          "GIS_ID": "temp_177",
+          "XCOORD": 394067.36,
+          "YCOORD": 141648.15,
+          "MAR_ID": 294560,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{30DEA3DD-3FDC-48CE-B974-32A397FC5274}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.06843590032601,
+            38.94271287486396
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 18,
+          "EMB_TITLE": "Embassy of the Republic of Singapore",
+          "COUNTRY": "Singapore",
+          "ADDRESS": "3501 INTERNATIONAL PLACE NW",
+          "TELEPHONE": "(202) 537-3100",
+          "WEBURL": "http://www.mfa.gov.sg/washington/",
+          "GIS_ID": "temp_134",
+          "XCOORD": 394326.01,
+          "YCOORD": 141647.8,
+          "MAR_ID": 294570,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{3E96CCD5-D081-4117-8C6C-5C1FE356728A}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.06545234405503,
+            38.94271143065859
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 19,
+          "EMB_TITLE": "Embassy of the Republic of Ghana",
+          "COUNTRY": "Ghana",
+          "ADDRESS": "3512 INTERNATIONAL DRIVE NW",
+          "TELEPHONE": "(202) 686-4520",
+          "WEBURL": "http://www.ghanaembassy.org/",
+          "GIS_ID": "temp_176",
+          "XCOORD": 394092.15,
+          "YCOORD": 141599.47,
+          "MAR_ID": 294575,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{A99FC259-2976-4E8B-8E6C-3CBDC905A33D}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.06814952601587,
+            38.94227451853271
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 20,
+          "EMB_TITLE": "Embassy of Bangladesh",
+          "COUNTRY": "Bangladesh",
+          "ADDRESS": "3510 INTERNATIONAL DRIVE NW",
+          "TELEPHONE": "(202) 244-0183",
+          "WEBURL": "http://www.bdembassyusa.org/",
+          "GIS_ID": "temp_83",
+          "XCOORD": 394105.66,
+          "YCOORD": 141549.22,
+          "MAR_ID": 294574,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{F2B496BA-7D6A-4343-851B-938CA69D0065}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.06799325605331,
+            38.94182194283754
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 21,
+          "EMB_TITLE": "Embassy of Cameroon",
+          "COUNTRY": "Cameroon",
+          "ADDRESS": "3400 INTERNATIONAL DRIVE NW",
+          "TELEPHONE": "(202) 265-8790",
+          "WEBURL": "http://www.cameroonembassyusa.org/",
+          "GIS_ID": "temp_16",
+          "XCOORD": 394417.01,
+          "YCOORD": 141545.55,
+          "MAR_ID": 301239,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{0B0BF0CF-D6C6-48F6-8E69-A5F5F45E8DE3}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.06440181795014,
+            38.94179092533287
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 22,
+          "EMB_TITLE": "Embassy of South Africa",
+          "COUNTRY": "South Africa",
+          "ADDRESS": "3051 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 232-4400",
+          "WEBURL": "http://www.saembassy.org/",
+          "GIS_ID": "temp_74",
+          "XCOORD": 394417.01,
+          "YCOORD": 141545.55,
+          "MAR_ID": 301239,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{83A5B7C3-A023-4A7E-B9F8-8A6EA4254DEC}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.06440181795014,
+            38.94179092533287
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 23,
+          "EMB_TITLE": "Embassy of the Hashemite Kingdom of Jordan",
+          "COUNTRY": "Jordan",
+          "ADDRESS": "3504 INTERNATIONAL DRIVE NW",
+          "TELEPHONE": "(202) 966-2664",
+          "WEBURL": "http://www.jordanembassyus.org",
+          "GIS_ID": "temp_129",
+          "XCOORD": 394244.76,
+          "YCOORD": 141487.66,
+          "MAR_ID": 294572,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{F13692D2-6E4E-4FB4-89DA-D78ED7FC8B20}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.06638822741543,
+            38.94126831490886
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 24,
+          "EMB_TITLE": "Embassy of the Kingdom of Bahrain",
+          "COUNTRY": "Bahrain",
+          "ADDRESS": "3502 INTERNATIONAL DRIVE NW",
+          "TELEPHONE": "(202) 342-1111",
+          "WEBURL": "http://www.bahrainembassy.org/",
+          "GIS_ID": "temp_174",
+          "XCOORD": 394292.49,
+          "YCOORD": 141485.72,
+          "MAR_ID": 294571,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{A034E753-D4C4-43CD-8FED-6951A1D226EB}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.0658376521547,
+            38.941251150227565
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 25,
+          "EMB_TITLE": "Embassy of Honduras",
+          "COUNTRY": "Honduras",
+          "ADDRESS": "3007 TILDEN STREET NW",
+          "TELEPHONE": "(202) 966-7702",
+          "WEBURL": "http://www.hondurasemb.org/",
+          "GIS_ID": "temp_100",
+          "XCOORD": 394470.3,
+          "YCOORD": 141484.9,
+          "MAR_ID": 294550,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{C4573615-ADC9-4980-B797-898CD92D0AE9}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.06378663160535,
+            38.94124490067196
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 26,
+          "EMB_TITLE": "Embassy of Ethiopia",
+          "COUNTRY": "Ethiopia",
+          "ADDRESS": "3506 INTERNATIONAL DRIVE NW",
+          "TELEPHONE": "(202) 364-1200",
+          "WEBURL": "http://www.ethiopianembassy.org/",
+          "GIS_ID": "temp_136",
+          "XCOORD": 394194.73,
+          "YCOORD": 141484.68,
+          "MAR_ID": 294573,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{21DE4F08-477C-4F6F-9C38-B00AA9923C70}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.06696529150581,
+            38.941241141019105
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 27,
+          "EMB_TITLE": "Embassy of the State of Kuwait",
+          "COUNTRY": "Kuwait",
+          "ADDRESS": "2940 TILDEN STREET NW",
+          "TELEPHONE": "(202) 966-0702",
+          "WEBURL": "http://www.kuwaitembassy.us/",
+          "GIS_ID": "temp_175",
+          "XCOORD": 394871.21,
+          "YCOORD": 141412.56,
+          "MAR_ID": 219299,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{E64FA3FF-2903-4C02-A8BE-B9147E204B7A}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05916164924635,
+            38.94059567307188
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 28,
+          "EMB_TITLE": "Embassy of Hungary",
+          "COUNTRY": "Hungary",
+          "ADDRESS": "3910 SHOEMAKER STREET NW",
+          "TELEPHONE": "(202) 362-6730",
+          "WEBURL": "http://washington.kormany.hu/",
+          "GIS_ID": "temp_47",
+          "XCOORD": 395386.1,
+          "YCOORD": 141377.88,
+          "MAR_ID": 284805,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{6869233E-87A2-477C-9941-7FACD3E92507}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05322228471309,
+            38.94028612070057
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 29,
+          "EMB_TITLE": "Embassy of the Czech Republic",
+          "COUNTRY": "Czech Republic",
+          "ADDRESS": "3900 SPRING OF FREEDOM STREET NW",
+          "TELEPHONE": "(202) 274-9100",
+          "WEBURL": "http://www.mzv.cz/washington/",
+          "GIS_ID": "temp_46",
+          "XCOORD": 395304.8,
+          "YCOORD": 141272.98,
+          "MAR_ID": 294585,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{64D8B94E-947A-4F6B-8C3D-A884E79BDF52}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.0541593385355,
+            38.939340720077666
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 30,
+          "EMB_TITLE": "Embassy of Saint Lucia",
+          "COUNTRY": "Saint Lucia",
+          "ADDRESS": "3216 NEW MEXICO AVENUE NW",
+          "TELEPHONE": "(202) 364-6792",
+          "WEBURL": "http://www.stlucia.org/services/government.asp",
+          "GIS_ID": "temp_118",
+          "XCOORD": 392545.86,
+          "YCOORD": 140593.82,
+          "MAR_ID": 265490,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{B1143424-2824-4203-8786-6FC4D767004B}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.08597509619872,
+            38.933203568377245
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 31,
+          "EMB_TITLE": "Embassy of the Commonwealth of Dominica",
+          "COUNTRY": "Dominica",
+          "ADDRESS": "3216 NEW MEXICO AVENUE NW",
+          "TELEPHONE": "(202) 364-6781",
+          "WEBURL": "http://www.embassy.org/embassies/dm.html",
+          "GIS_ID": "temp_92",
+          "XCOORD": 392545.86,
+          "YCOORD": 140593.82,
+          "MAR_ID": 265490,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{C76D5CF9-15EF-4B1E-A081-3638C6D88922}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.08597509619872,
+            38.933203568377245
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 32,
+          "EMB_TITLE": "Embassy of Saint Kitts and Nevis",
+          "COUNTRY": "St. Kitts and Nevis",
+          "ADDRESS": "3216 NEW MEXICO AVENUE NW",
+          "TELEPHONE": "(202) 686-2636",
+          "WEBURL": "http://www.embassy.gov.kn",
+          "GIS_ID": "temp_77",
+          "XCOORD": 392545.86,
+          "YCOORD": 140593.82,
+          "MAR_ID": 265490,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{1EC9CD31-43E7-4D48-9929-662469D9F7AE}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.08597509619872,
+            38.933203568377245
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 33,
+          "EMB_TITLE": "Embassy of Antigua and Barbuda",
+          "COUNTRY": "Antigua & Barbuda",
+          "ADDRESS": "3216 NEW MEXICO AVENUE NW",
+          "TELEPHONE": "(202) 362-5122",
+          "WEBURL": "http://www.embassy.org/embassies/ag.html",
+          "GIS_ID": "temp_4",
+          "XCOORD": 392545.86,
+          "YCOORD": 140593.82,
+          "MAR_ID": 265490,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{1600B6A0-4E4C-4425-9E43-E94887D4FB85}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.08597509619872,
+            38.933203568377245
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 34,
+          "EMB_TITLE": "Embassy of Saint Vincent and the Grenadines",
+          "COUNTRY": "Saint Vincent/Grenadines",
+          "ADDRESS": "3216 NEW MEXICO AVENUE NW",
+          "TELEPHONE": "(202) 364-6730",
+          "WEBURL": "http://www.embsvg.com/",
+          "GIS_ID": "temp_119",
+          "XCOORD": 392545.86,
+          "YCOORD": 140593.82,
+          "MAR_ID": 265490,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{53107D1A-45D1-4F35-A47B-6207CFBAF240}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.08597509619872,
+            38.933203568377245
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 35,
+          "EMB_TITLE": "Embassy of Switzerland",
+          "COUNTRY": "Switzerland",
+          "ADDRESS": "2900 CATHEDRAL AVENUE NW",
+          "TELEPHONE": "(202) 745-7900",
+          "WEBURL": "http://www.swissemb.org",
+          "GIS_ID": "temp_162",
+          "XCOORD": 394976.23,
+          "YCOORD": 140069.47,
+          "MAR_ID": 220175,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{A723880C-4046-4B55-8FE8-BAEAB5F98409}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05794043585158,
+            38.92849732082446
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 36,
+          "EMB_TITLE": "Embassy of Belgium",
+          "COUNTRY": "Belgium",
+          "ADDRESS": "3330 GARFIELD STREET NW",
+          "TELEPHONE": "(202) 333-6900",
+          "WEBURL": "http://www.diplobel.us/",
+          "GIS_ID": "temp_10",
+          "XCOORD": 394284,
+          "YCOORD": 139917.04,
+          "MAR_ID": 220321,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{17E93EDF-22E8-4CFB-B0C2-509A00974FBE}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.06592251606973,
+            38.927119953163555
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 37,
+          "EMB_TITLE": "Embassy of Republic of Azerbaijan",
+          "COUNTRY": "Azerbaijan",
+          "ADDRESS": "2741 34TH STREET NW",
+          "TELEPHONE": "(202) 337-3500",
+          "WEBURL": "http://www.azembassy.us/",
+          "GIS_ID": "temp_137",
+          "XCOORD": 394266.59,
+          "YCOORD": 139761.71,
+          "MAR_ID": 284495,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{2EFF115E-302F-43D0-9CC0-6897650E8DA5}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.066122000675,
+            38.92572057826488
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 38,
+          "EMB_TITLE": "Embassy of The Republic of Iraq",
+          "COUNTRY": "Iraq",
+          "ADDRESS": "3421 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 742-1600",
+          "WEBURL": "http://www.iraqiembassy.us\r\n",
+          "GIS_ID": "temp_147",
+          "XCOORD": 394080.54,
+          "YCOORD": 139728.79,
+          "MAR_ID": 284680,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{9C6F1D4C-2D11-4F84-965F-5B3AE36E0B00}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.0682672989615,
+            38.9254227908309
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 39,
+          "EMB_TITLE": "Royal Norwegian Embassy",
+          "COUNTRY": "Norway",
+          "ADDRESS": "2720 34TH STREET NW",
+          "TELEPHONE": "(202) 333-6000",
+          "WEBURL": "http://www.norway.org/Embassy/washington/",
+          "GIS_ID": "temp_61",
+          "XCOORD": 394215.07,
+          "YCOORD": 139693.24,
+          "MAR_ID": 294548,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{8427EF2F-21E2-484C-9602-556C284C62BE}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.06671557026985,
+            38.92510344118493
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 40,
+          "EMB_TITLE": "Embassy of the Republic of Cape Verde",
+          "COUNTRY": "Cape Verde",
+          "ADDRESS": "3415 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 965-6820",
+          "WEBURL": "http://embassy.org/embassies/cv.html",
+          "GIS_ID": "temp_88",
+          "XCOORD": 394117.91,
+          "YCOORD": 139692.19,
+          "MAR_ID": 284672,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{2DB2AAD5-FF67-4C0B-B3B5-064593C22A83}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.06783603471258,
+            38.925093337411624
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 41,
+          "EMB_TITLE": "Apostolic Nunciature",
+          "COUNTRY": "Holy See (The)",
+          "ADDRESS": "3339 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 333-7121",
+          "WEBURL": "http://www.embassy.org/embassies/va.html",
+          "GIS_ID": "temp_99",
+          "XCOORD": 394303.86,
+          "YCOORD": 139645.34,
+          "MAR_ID": 220340,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{5B052EBD-4554-4239-ACE4-79806A48225C}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.06569122423048,
+            38.924672522881394
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 42,
+          "EMB_TITLE": "Embassy of the Republic of Poland",
+          "COUNTRY": "Poland",
+          "ADDRESS": "2640 16TH STREET NW",
+          "TELEPHONE": "(202) 499-1700",
+          "WEBURL": "http://www.polandembassy.org/",
+          "GIS_ID": "temp_67",
+          "XCOORD": 396795.9,
+          "YCOORD": 139634.02,
+          "MAR_ID": 235850,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{D32E3D52-6859-4F51-9B77-72C15F93176C}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.03695250991075,
+            38.924583169974234
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 43,
+          "EMB_TITLE": "Embassy of the Central African Republic",
+          "COUNTRY": "Central African Republic",
+          "ADDRESS": "2704 ONTARIO ROAD NW",
+          "TELEPHONE": "(202) 483-7800",
+          "WEBURL": "http://www.embassy.org/embassies/cf.html",
+          "GIS_ID": "temp_29",
+          "XCOORD": 396484.13,
+          "YCOORD": 139620.33,
+          "MAR_ID": 235911,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{681EA364-0D9D-480E-9C20-461CED46723E}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04054782387237,
+            38.92445865385932
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 44,
+          "EMB_TITLE": "Embassy of Finland",
+          "COUNTRY": "Finland",
+          "ADDRESS": "3301 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 298-5800",
+          "WEBURL": "http://www.finland.org/",
+          "GIS_ID": "temp_42",
+          "XCOORD": 394351.31,
+          "YCOORD": 139620.03,
+          "MAR_ID": 284623,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{08A0B939-609D-4DDC-9A97-821CC7546AF5}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.06514381395483,
+            38.92444482868216
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 45,
+          "EMB_TITLE": "Embassy of Cuba",
+          "COUNTRY": "Cuba",
+          "ADDRESS": "2639 16TH STREET NW",
+          "TELEPHONE": "(202) 797-8609",
+          "WEBURL": "http://cubaembassy.us/",
+          "GIS_ID": "temp_20",
+          "XCOORD": 396869.49,
+          "YCOORD": 139610.34,
+          "MAR_ID": 235841,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{E8279C38-3340-486C-AB31-5BE69E75E0D9}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.03610374962604,
+            38.92437011825055
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 46,
+          "EMB_TITLE": "Embassy of the Russian Federation",
+          "COUNTRY": "Russian Federation",
+          "ADDRESS": "2650 WISCONSIN AVENUE NW",
+          "TELEPHONE": "(202) 298-5700",
+          "WEBURL": "http://www.russianembassy.org/",
+          "GIS_ID": "temp_70",
+          "XCOORD": 393548.44,
+          "YCOORD": 139579.27,
+          "MAR_ID": 271823,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{3FFFB7FA-9D87-4064-B286-2B13ACE56E9A}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.07440224263853,
+            38.9240721215842
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 47,
+          "EMB_TITLE": "Embassy of the Republic of Lithuania",
+          "COUNTRY": "Lithuania",
+          "ADDRESS": "2622 16TH STREET NW",
+          "TELEPHONE": "(202) 234-5860",
+          "WEBURL": "http://www.ltembassyus.org/",
+          "GIS_ID": "temp_106",
+          "XCOORD": 396795.34,
+          "YCOORD": 139562.59,
+          "MAR_ID": 235849,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{6587F055-F126-4B17-9FE6-E3423980B81F}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.0369586344097,
+            38.92393970366274
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 48,
+          "EMB_TITLE": "Embassy of Lebanon",
+          "COUNTRY": "Lebanon",
+          "ADDRESS": "2560 28TH STREET NW",
+          "TELEPHONE": "(202) 939-6300",
+          "WEBURL": "http://www.lebanonembassyus.org/",
+          "GIS_ID": "temp_153",
+          "XCOORD": 395123.76,
+          "YCOORD": 139423.2,
+          "MAR_ID": 284413,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{A8228239-7DA5-4BCA-BE2E-2B418717F93E}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05623441037697,
+            38.92267634734017
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 49,
+          "EMB_TITLE": "Embassy of Panama",
+          "COUNTRY": "Panama",
+          "ADDRESS": "2862 MCGILL TERRACE NW",
+          "TELEPHONE": "(202) 483-1407",
+          "WEBURL": "http://www.embassyofpanama.org",
+          "GIS_ID": "temp_63",
+          "XCOORD": 395006.3,
+          "YCOORD": 139413.45,
+          "MAR_ID": 219070,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{7EB58C33-3091-4D76-A166-9790C0230AA7}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.0575888715689,
+            38.92258785652515
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 50,
+          "EMB_TITLE": "Embassy of the Republic of Burundi",
+          "COUNTRY": "Burundi",
+          "ADDRESS": "2233 WISCONSIN AVENUE NW",
+          "TELEPHONE": "(202) 342-2574",
+          "WEBURL": "http://www.burundiembassydc-usa.org/",
+          "GIS_ID": "temp_87",
+          "XCOORD": 393862.34,
+          "YCOORD": 139121.26,
+          "MAR_ID": 284312,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{906357A4-5F63-4CC6-A04B-669760672278}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.07077822646745,
+            38.91994846894794
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 51,
+          "EMB_TITLE": "Embassy of The Gambia",
+          "COUNTRY": "Gambia (The)",
+          "ADDRESS": "2233 WISCONSIN AVENUE NW",
+          "TELEPHONE": "(202) 785-1399",
+          "WEBURL": "http://www.gambiaembassy.us",
+          "GIS_ID": "temp_94",
+          "XCOORD": 393862.34,
+          "YCOORD": 139121.26,
+          "MAR_ID": 284312,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{81A3A997-8604-4953-A850-553FEA6462D7}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.07077822646745,
+            38.91994846894794
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 52,
+          "EMB_TITLE": "Embassy of the Republic of Serbia",
+          "COUNTRY": "Serbia",
+          "ADDRESS": "2233 WISCONSIN AVENUE NW",
+          "TELEPHONE": "(202) 332-0333",
+          "WEBURL": "http://www.serbiaembusa.org/",
+          "GIS_ID": "temp_145",
+          "XCOORD": 395718.5,
+          "YCOORD": 138895.15,
+          "MAR_ID": 234993,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{C4BA3449-4CAB-4E75-9116-75FC44240297}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.07077822646745,
+            38.91994846894794
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 53,
+          "EMB_TITLE": "Embassy of the United Kingdom of Great Britain and Northern Ireland",
+          "COUNTRY": "United Kingdom",
+          "ADDRESS": "3100 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 588-6500",
+          "WEBURL": "https://www.gov.uk/government/world/organisations/british-embassy-washington",
+          "GIS_ID": "temp_125",
+          "XCOORD": 394582.37,
+          "YCOORD": 139086.96,
+          "MAR_ID": 284577,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{6E39D01A-987B-4B83-8371-D47D19A296BB}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.06247498943968,
+            38.91964421751168
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 54,
+          "EMB_TITLE": "Embassy of Iran",
+          "COUNTRY": "Iran",
+          "ADDRESS": "2209 WISCONSIN AVENUE NW",
+          "TELEPHONE": "(202) 965-4990\n",
+          "WEBURL": "http://www.daftar.org/Eng/default.asp?lang=eng",
+          "GIS_ID": "temp_24",
+          "XCOORD": 393895.71,
+          "YCOORD": 139057.57,
+          "MAR_ID": 284279,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{4D3AD7F9-463F-4E8F-B58A-3C0EFA62286C}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.0703928567575,
+            38.91937496114766
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 55,
+          "EMB_TITLE": "Embassy of Bolivia",
+          "COUNTRY": "Bolivia",
+          "ADDRESS": "3014 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 483-4410",
+          "WEBURL": "http://www.bolivia-usa.org/",
+          "GIS_ID": "temp_12",
+          "XCOORD": 394703.86,
+          "YCOORD": 139050.73,
+          "MAR_ID": 294552,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{AF2A8E71-65D0-4BD6-9B4F-21F907EF080F}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.06107376401395,
+            38.91931858646392
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 56,
+          "EMB_TITLE": "Embassy of New Zealand",
+          "COUNTRY": "New Zealand",
+          "ADDRESS": "37 OBSERVATORY CIRCLE NW",
+          "TELEPHONE": "(202) 328-4800",
+          "WEBURL": "http://www.nzembassy.com/usa",
+          "GIS_ID": "temp_58",
+          "XCOORD": 394434.28,
+          "YCOORD": 139015.58,
+          "MAR_ID": 284778,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{8B4DA07F-72CF-447F-927A-F6204B07FD0C}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.06418209098307,
+            38.9190002776897
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 57,
+          "EMB_TITLE": "Embassy of Brazil",
+          "COUNTRY": "Brazil",
+          "ADDRESS": "3006 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 238-2700",
+          "WEBURL": "http://washington.itamaraty.gov.br/en-us/",
+          "GIS_ID": "temp_13",
+          "XCOORD": 394719.75,
+          "YCOORD": 139011.3,
+          "MAR_ID": 284549,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{099EC92D-10E6-4336-8347-2A25587816E3}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.06089022812532,
+            38.91896348375872
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 58,
+          "EMB_TITLE": "Embassy of Sri Lanka",
+          "COUNTRY": "Sri Lanka",
+          "ADDRESS": "3025 WHITEHAVEN STREET NW",
+          "TELEPHONE": "(202) 483-4025",
+          "WEBURL": "http://www.slembassyusa.org/",
+          "GIS_ID": "temp_76",
+          "XCOORD": 395752.69,
+          "YCOORD": 138781.32,
+          "MAR_ID": 235004,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{1AAEFE6F-45C2-44E8-A37E-E2B582EBFF86}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.06176815590152,
+            38.91862494029739
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 59,
+          "EMB_TITLE": "Embassy of Angola",
+          "COUNTRY": "Angola",
+          "ADDRESS": "2108 16TH STREET NW",
+          "TELEPHONE": "(202) 785-1156",
+          "WEBURL": "http://www.angola.org/",
+          "GIS_ID": "temp_81",
+          "XCOORD": 396799.36,
+          "YCOORD": 138958.49,
+          "MAR_ID": 218620,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{AD35B65B-C223-4A6D-93FD-24F4C76EBD45}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.03690945867332,
+            38.91849778936443
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 60,
+          "EMB_TITLE": "Embassy of the People's Democratic Republic of Algeria",
+          "COUNTRY": "Algeria",
+          "ADDRESS": "2118 KALORAMA ROAD NW",
+          "TELEPHONE": "(202) 265-2800",
+          "WEBURL": "http://www.algeria-us.org/",
+          "GIS_ID": "temp_1",
+          "XCOORD": 395774.26,
+          "YCOORD": 138923.19,
+          "MAR_ID": 234982,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{D87E5A9A-CC2E-4B87-8141-2FBC3853F61C}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04872985780601,
+            38.91817546363904
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 61,
+          "EMB_TITLE": "Embassy of the Republic of Benin",
+          "COUNTRY": "Benin",
+          "ADDRESS": "2124 KALORAMA ROAD NW",
+          "TELEPHONE": "(202) 232-6656",
+          "WEBURL": "http://www.beninembassy.us/",
+          "GIS_ID": "temp_11",
+          "XCOORD": 395745.18,
+          "YCOORD": 138911.71,
+          "MAR_ID": 277145,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{2491FCC4-6E68-4E58-9501-B8F3C01A6A2E}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04906511195895,
+            38.91807190769603
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 62,
+          "EMB_TITLE": "Embassy of the Gabonese Republic",
+          "COUNTRY": "Gabon",
+          "ADDRESS": "2034 20TH STREET NW",
+          "TELEPHONE": "(202) 797-1000",
+          "WEBURL": "http://gabonembassyusa.org/",
+          "GIS_ID": "temp_93",
+          "XCOORD": 396027.63,
+          "YCOORD": 138902.51,
+          "MAR_ID": 235124,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{5988EEB6-31D5-4CD0-961B-CA1633348554}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04580809528706,
+            38.91799035327991
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 63,
+          "EMB_TITLE": "Embassy of Italy",
+          "COUNTRY": "Italy",
+          "ADDRESS": "3000 WHITEHAVEN STREET NW",
+          "TELEPHONE": "(202) 612-4400",
+          "WEBURL": "http://www.ambwashingtondc.esteri.it/ambasciata_washington",
+          "GIS_ID": "temp_52",
+          "XCOORD": 394750.31,
+          "YCOORD": 138883.12,
+          "MAR_ID": 294549,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{40408099-399D-4F0A-860E-665ED0EF4D68}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.06053685267612,
+            38.917808979351044
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 64,
+          "EMB_TITLE": "Embassy of the Sultanate of Oman",
+          "COUNTRY": "Oman",
+          "ADDRESS": "2535 BELMONT ROAD NW",
+          "TELEPHONE": "(202) 387-1980",
+          "WEBURL": "http://www.omani.info/",
+          "GIS_ID": "temp_62",
+          "XCOORD": 395136.86,
+          "YCOORD": 138872.3,
+          "MAR_ID": 218873,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{AE38A8AB-27F1-4A2D-AAF9-15F65C7A708C}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.0560794402316,
+            38.91771373345124
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 65,
+          "EMB_TITLE": "Embassy of the Republic of Macedonia",
+          "COUNTRY": "Macedonia",
+          "ADDRESS": "2129 WYOMING AVENUE NW",
+          "TELEPHONE": "(202) 667-0501",
+          "WEBURL": "http://www.macedonianembassy.org",
+          "GIS_ID": "temp_156",
+          "XCOORD": 395818.69,
+          "YCOORD": 138868.87,
+          "MAR_ID": 242929,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{62BF07DD-C19F-43ED-AD7B-B2620FCEC7E3}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04821719877516,
+            38.91768634370604
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 66,
+          "EMB_TITLE": "Embassy of Equatorial Guinea",
+          "COUNTRY": "Equatorial Guinea",
+          "ADDRESS": "2020 16TH STREET NW",
+          "TELEPHONE": "(202) 518-5700",
+          "WEBURL": "http://www.embassy.org/embassies/gq.html",
+          "GIS_ID": "temp_128",
+          "XCOORD": 396800.75,
+          "YCOORD": 138858.88,
+          "MAR_ID": 243346,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{E1E525FF-334A-4B4E-BF94-526D8FEC9109}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.03689296610183,
+            38.91760047467614
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 67,
+          "EMB_TITLE": "Royal Danish Embassy",
+          "COUNTRY": "Denmark",
+          "ADDRESS": "3200 WHITEHAVEN STREET NW",
+          "TELEPHONE": "(202) 234-4300",
+          "WEBURL": "http://usa.um.dk/",
+          "GIS_ID": "temp_90",
+          "XCOORD": 394510.14,
+          "YCOORD": 138834.73,
+          "MAR_ID": 223980,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{002F1534-4346-4544-9DD0-165D6B3CDEB2}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.06330588308028,
+            38.917371598709884
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 68,
+          "EMB_TITLE": "Embassy of Malta",
+          "COUNTRY": "Malta",
+          "ADDRESS": "2017 CONNECTICUT AVENUE NW",
+          "TELEPHONE": "(202) 462-3611",
+          "WEBURL": "http://www.foreign.gov.mt/default.aspx?MDIS=504",
+          "GIS_ID": "temp_158",
+          "XCOORD": 395950.94,
+          "YCOORD": 138834.33,
+          "MAR_ID": 277141,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{B0273D4F-DC14-45D6-9A42-B934AF569C27}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04669201334525,
+            38.91737581530378
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 69,
+          "EMB_TITLE": "Embassy of Afghanistan",
+          "COUNTRY": "Afghanistan",
+          "ADDRESS": "2341 WYOMING AVENUE NW",
+          "TELEPHONE": "(202) 483-6410",
+          "WEBURL": "http://www.embassyofafghanistan.org/",
+          "GIS_ID": "temp_131",
+          "XCOORD": 395472.14,
+          "YCOORD": 138821.57,
+          "MAR_ID": 219045,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{6275A714-5A55-4B24-BB3B-D24D10217CEC}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.0522129729613,
+            38.91725853238157
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 70,
+          "EMB_TITLE": "Embassy of the Republic of Yemen",
+          "COUNTRY": "Yemen",
+          "ADDRESS": "2319 WYOMING AVENUE NW",
+          "TELEPHONE": "(202) 965-4760",
+          "WEBURL": "http://www.yemenembassy.org/",
+          "GIS_ID": "temp_151",
+          "XCOORD": 395550.61,
+          "YCOORD": 138820.51,
+          "MAR_ID": 219040,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{9C75F7C5-9046-4912-9D63-90AE1F94F4E6}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05130812984504,
+            38.91724938437
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 71,
+          "EMB_TITLE": "Embassy of the Syria",
+          "COUNTRY": "Syria",
+          "ADDRESS": "2215 WYOMING AVENUE NW",
+          "TELEPHONE": "(202) 232-6316",
+          "WEBURL": "http://www.syrianembassy.us/",
+          "GIS_ID": "temp_163",
+          "XCOORD": 395629.35,
+          "YCOORD": 138797.37,
+          "MAR_ID": 234992,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{67510466-13A0-4F00-8F86-41EA33C40F24}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05040003302462,
+            38.91704132674932
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 72,
+          "EMB_TITLE": "Embassy of Barbados",
+          "COUNTRY": "Barbados",
+          "ADDRESS": "2144 WYOMING AVENUE NW",
+          "TELEPHONE": "(202) 939-9200",
+          "WEBURL": "http://www.embassy.org/embassies/bb.html",
+          "GIS_ID": "temp_8",
+          "XCOORD": 395771.19,
+          "YCOORD": 138791.11,
+          "MAR_ID": 277150,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{DBE2DDC0-2C0B-45EB-BA50-43F893432CA0}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04876444477301,
+            38.91698562861531
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 73,
+          "EMB_TITLE": "Embassy of Guyana",
+          "COUNTRY": "Guyana",
+          "ADDRESS": "2490 TRACY PLACE NW",
+          "TELEPHONE": "(202) 265-6900",
+          "WEBURL": "http://www.embassy.org/embassies/gy.html",
+          "GIS_ID": "temp_97",
+          "XCOORD": 395164.57,
+          "YCOORD": 138786.2,
+          "MAR_ID": 218951,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{93B9AC3A-0AC4-4E9B-8CE0-F69BFF54BBC7}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.0557593082162,
+            38.91693826913047
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 74,
+          "EMB_TITLE": "Embassy of Belize",
+          "COUNTRY": "Belize",
+          "ADDRESS": "2535 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 332-9636",
+          "WEBURL": "http://www.embassyofbelize.org/",
+          "GIS_ID": "temp_84",
+          "XCOORD": 395120.46,
+          "YCOORD": 138752.43,
+          "MAR_ID": 218932,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{39DD38EC-B44D-4DE9-9408-C0EF32802A5D}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05626769755777,
+            38.91663381396564
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 75,
+          "EMB_TITLE": "Embassy of the Republic of Turkey",
+          "COUNTRY": "Turkey",
+          "ADDRESS": "2525 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 612-6700",
+          "WEBURL": "http://www.turkishembassy.org/",
+          "GIS_ID": "temp_167",
+          "XCOORD": 395154.24,
+          "YCOORD": 138741.62,
+          "MAR_ID": 218950,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{3EB564B3-199F-493F-88D2-35DD8A738EF2}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05587810807016,
+            38.91653662082313
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 76,
+          "EMB_TITLE": "Embassy of the Kingdom of Lesotho",
+          "COUNTRY": "Lesotho",
+          "ADDRESS": "2511 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 797-5533",
+          "WEBURL": "http://www.lesothoemb-usa.gov.ls",
+          "GIS_ID": "temp_105",
+          "XCOORD": 395197.38,
+          "YCOORD": 138685.18,
+          "MAR_ID": 218952,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{BEFC8134-666A-4FBC-884F-31592ADAFA78}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05538027168171,
+            38.916028427390756
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 77,
+          "EMB_TITLE": "Embassy of the Islamic Republic of Mauritania",
+          "COUNTRY": "Mauritania",
+          "ADDRESS": "2129 LEROY PLACE NW",
+          "TELEPHONE": "(202) 232-5700",
+          "WEBURL": "http://mauritaniaembassy.com/",
+          "GIS_ID": "temp_159",
+          "XCOORD": 395845.8,
+          "YCOORD": 138643.48,
+          "MAR_ID": 235051,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{3D4F79E6-26C9-4EAA-8DE1-39A866296B22}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.047903228077,
+            38.91565608438638
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 78,
+          "EMB_TITLE": "Embassy of Nepal",
+          "COUNTRY": "Nepal",
+          "ADDRESS": "2131 LEROY PLACE NW",
+          "TELEPHONE": "(202) 667-4550",
+          "WEBURL": "http://www.nepalembassyusa.org/",
+          "GIS_ID": "temp_56",
+          "XCOORD": 395841.45,
+          "YCOORD": 138638.16,
+          "MAR_ID": 235057,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{2FB06BC5-02AA-40F6-B6F9-F73E960ACF52}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04795335450275,
+            38.91560813947774
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 79,
+          "EMB_TITLE": "Embassy of Japan",
+          "COUNTRY": "Japan",
+          "ADDRESS": "2520 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 238-6700",
+          "WEBURL": "http://www.us.emb-japan.go.jp/english/html/index.html",
+          "GIS_ID": "temp_53",
+          "XCOORD": 395114.15,
+          "YCOORD": 138631.9,
+          "MAR_ID": 285534,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{EB750F51-6484-46B6-9F50-CC3AF141B015}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05633959965074,
+            38.915548004618245
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 80,
+          "EMB_TITLE": "Embassy of the Republic of Guinea",
+          "COUNTRY": "Guinea",
+          "ADDRESS": "2112 LEROY PLACE NW",
+          "TELEPHONE": "(202) 986-4300",
+          "WEBURL": "http://guineaembassyusa.com/",
+          "GIS_ID": "temp_139",
+          "XCOORD": 395919.41,
+          "YCOORD": 138618.85,
+          "MAR_ID": 235074,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{9A26341A-6D9D-44A5-8351-4A2727FB81F9}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04705430506489,
+            38.91543455402068
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 81,
+          "EMB_TITLE": "Embassy of Colombia",
+          "COUNTRY": "Colombia",
+          "ADDRESS": "2118 LEROY PLACE NW",
+          "TELEPHONE": "(202) 387-8338",
+          "WEBURL": "http://www.colombiaemb.org/",
+          "GIS_ID": "temp_33",
+          "XCOORD": 395898.79,
+          "YCOORD": 138617.1,
+          "MAR_ID": 235084,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{7566317A-C84D-4AFA-A24D-EDCFDBF957D5}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04729205740769,
+            38.91541869344522
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 82,
+          "EMB_TITLE": "Embassy of the Republic of Slovenia",
+          "COUNTRY": "Slovenia",
+          "ADDRESS": "2410 CALIFORNIA STREET NW",
+          "TELEPHONE": "(202) 386-6601",
+          "WEBURL": "http://washington.embassy.si",
+          "GIS_ID": "temp_121",
+          "XCOORD": 395363.79,
+          "YCOORD": 138607.58,
+          "MAR_ID": 218958,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{40AE41C7-EAA1-4FAB-8EEE-07A7BCE22B37}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05346090986995,
+            38.91533027443685
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 83,
+          "EMB_TITLE": "Embassy of the Republic of the Marshall Islands",
+          "COUNTRY": "Marshall Islands",
+          "ADDRESS": "2433 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 234-5414",
+          "WEBURL": "http://www.rmiembassyus.org",
+          "GIS_ID": "temp_109",
+          "XCOORD": 395328.45,
+          "YCOORD": 138563.55,
+          "MAR_ID": 218969,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{B0270440-7C5A-43C8-9D2C-1CA6D4E4BBD2}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05386810419373,
+            38.91493345033663
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 84,
+          "EMB_TITLE": "Embassy of the Republic of Zambia",
+          "COUNTRY": "Zambia",
+          "ADDRESS": "2419 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 265-9717",
+          "WEBURL": "http://www.zambiaembassy.org/",
+          "GIS_ID": "temp_173",
+          "XCOORD": 395364.94,
+          "YCOORD": 138535.53,
+          "MAR_ID": 275736,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{52F500E3-E0F0-4836-AB3E-510699F14BE3}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05344716317525,
+            38.914681230022026
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 85,
+          "EMB_TITLE": "Embassy of the Republic of Korea",
+          "COUNTRY": "Korea",
+          "ADDRESS": "2450 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 939-5600",
+          "WEBURL": "http://usa.mofat.go.kr/english/am/usa/main/index.jsp",
+          "GIS_ID": "temp_152",
+          "XCOORD": 395259.48,
+          "YCOORD": 138533.55,
+          "MAR_ID": 218867,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{68FA8F84-A110-44B0-93E9-26B0F19A32EE}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05466316301388,
+            38.91466283095771
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 86,
+          "EMB_TITLE": "Embassy of Germany",
+          "COUNTRY": "Germany",
+          "ADDRESS": "4645 RESERVOIR ROAD NW",
+          "TELEPHONE": "(202) 298-4000",
+          "WEBURL": "http://www.germany.info/Vertretung/usa/en/01__Embassy/Washington/__Home.html",
+          "GIS_ID": "temp_44",
+          "XCOORD": 395615.27,
+          "YCOORD": 137462.07,
+          "MAR_ID": 243314,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{0A79A3C5-A94D-40BF-95C6-129ADA14D032}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.08883707252045,
+            38.914534376508406
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 87,
+          "EMB_TITLE": "Embassy of Senegal",
+          "COUNTRY": "Senegal",
+          "ADDRESS": "2031 FLORIDA AVENUE NW",
+          "TELEPHONE": "(202) 234-0540",
+          "WEBURL": "http://www.ambasenegal-us.org/",
+          "GIS_ID": "temp_72",
+          "XCOORD": 395959.5,
+          "YCOORD": 138494.34,
+          "MAR_ID": 243155,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{0184DCD3-1558-4A56-86D8-9D94CBB9959C}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.0465912954725,
+            38.91431312951795
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 88,
+          "EMB_TITLE": "Embassy of the Republic of Chad",
+          "COUNTRY": "Chad",
+          "ADDRESS": "2401 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 652-1312",
+          "WEBURL": "http://embassyofchad.info/index.php/en/",
+          "GIS_ID": "temp_30",
+          "XCOORD": 395411.05,
+          "YCOORD": 138491.13,
+          "MAR_ID": 218975,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{B0423CDD-A0B7-4FD0-89B9-621383A2C73D}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05291519199592,
+            38.91428150193363
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 89,
+          "EMB_TITLE": "Embassy of the Republic of Moldova",
+          "COUNTRY": "Moldova",
+          "ADDRESS": "2101 S STREET NW",
+          "TELEPHONE": "(202) 667-1130",
+          "WEBURL": "http://www.sua.mfa.md/about-embassy-en/",
+          "GIS_ID": "temp_112",
+          "XCOORD": 395951.49,
+          "YCOORD": 138486.64,
+          "MAR_ID": 235104,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{7CD03BB4-FBE3-4082-97B2-34D22ECA611F}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04668362094881,
+            38.914243710445945
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 90,
+          "EMB_TITLE": "Embassy of France",
+          "COUNTRY": "France",
+          "ADDRESS": "4101 RESERVOIR ROAD NW",
+          "TELEPHONE": "(202) 944-6000",
+          "WEBURL": "http://www.info-france-usa.org",
+          "GIS_ID": "temp_43",
+          "XCOORD": 393175.64,
+          "YCOORD": 138474.23,
+          "MAR_ID": 294589,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{5C892674-7434-4DA5-814E-177EDFD97580}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.07869041789759,
+            38.914114745183085
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 91,
+          "EMB_TITLE": "Embassy of the Republic of Cote D'Ivoire (Ivory Coast)",
+          "COUNTRY": "Cote D'Ivoire",
+          "ADDRESS": "2424 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 797-0300",
+          "WEBURL": "http://www.embassy.org/embassies/ci.html",
+          "GIS_ID": "temp_19",
+          "XCOORD": 395339.71,
+          "YCOORD": 138463.98,
+          "MAR_ID": 285532,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{ABA16C60-72B2-4F9A-82E4-8CE05293A7A4}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05373759369421,
+            38.914036550198325
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 92,
+          "EMB_TITLE": "Embassy of Costa Rica",
+          "COUNTRY": "Costa Rica",
+          "ADDRESS": "2114 S STREET NW",
+          "TELEPHONE": "(202) 480-2200",
+          "WEBURL": "http://costarica-embassy.org/",
+          "GIS_ID": "temp_35",
+          "XCOORD": 395847.96,
+          "YCOORD": 138449.6,
+          "MAR_ID": 294538,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{1DD63533-F01C-4316-9A44-747FBBC8904F}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.0478771491917,
+            38.91390955862386
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 93,
+          "EMB_TITLE": "Embassy of the Lao People's Democratic Republic",
+          "COUNTRY": "Laos",
+          "ADDRESS": "2222 S STREET NW",
+          "TELEPHONE": "(202) 332-6416",
+          "WEBURL": "http://www.laoembassy.com/welcomelaoembassy.html",
+          "GIS_ID": "temp_103",
+          "XCOORD": 395704.88,
+          "YCOORD": 138449.07,
+          "MAR_ID": 234955,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{8F8F8667-1932-4EB9-BDAD-066C424C3084}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.0495269214886,
+            38.913904096546815
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 94,
+          "EMB_TITLE": "Embassy of the Republic of the Union of Myanmar",
+          "COUNTRY": "Myanmar",
+          "ADDRESS": "2300 S STREET NW",
+          "TELEPHONE": "(202) 332-3344",
+          "WEBURL": "http://www.mewashingtondc.com/home_en.php",
+          "GIS_ID": "temp_54",
+          "XCOORD": 395604.44,
+          "YCOORD": 138446.43,
+          "MAR_ID": 234953,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{7E9BA6F5-5A13-446D-A037-5C41B02C6CF2}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05068502206437,
+            38.913879817898014
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 95,
+          "EMB_TITLE": "Embassy of the Republic of Croatia",
+          "COUNTRY": "Croatia",
+          "ADDRESS": "2343 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 588-5899",
+          "WEBURL": "http://www.croatiaemb.org/",
+          "GIS_ID": "temp_36",
+          "XCOORD": 395483.58,
+          "YCOORD": 138419.08,
+          "MAR_ID": 218995,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{EC780AC9-9B81-4D1B-B1E9-750D5D0C49A3}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05207841074456,
+            38.91363282707115
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 96,
+          "EMB_TITLE": "Embassy of the Republic of Malawi",
+          "COUNTRY": "Malawi",
+          "ADDRESS": "2408 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 721-0270",
+          "WEBURL": "http://www.malawiembassy-dc.org/",
+          "GIS_ID": "temp_108",
+          "XCOORD": 395385.02,
+          "YCOORD": 138414.17,
+          "MAR_ID": 275738,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{60969F3A-8E80-4D3D-84DD-284D2AF17426}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05321481364936,
+            38.91358808408347
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 97,
+          "EMB_TITLE": "Embassy of the Republic of the Congo",
+          "COUNTRY": "Congo (Republic)",
+          "ADDRESS": "1720 16TH STREET NW",
+          "TELEPHONE": "(202) 726-5500",
+          "WEBURL": "http://www.ambacongo-us.org/",
+          "GIS_ID": "temp_89",
+          "XCOORD": 396799.95,
+          "YCOORD": 138405.03,
+          "MAR_ID": 241979,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{6BC46B64-07F4-4D65-B38E-3E11398D7609}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.03690008695705,
+            38.91351205733425
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 98,
+          "EMB_TITLE": "Embassy of the Republic of Paraguay",
+          "COUNTRY": "Paraguay",
+          "ADDRESS": "2400 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 483-6960",
+          "WEBURL": "http://www.embaparusa.gov.py/v2/",
+          "GIS_ID": "temp_64",
+          "XCOORD": 395406.2,
+          "YCOORD": 138396.81,
+          "MAR_ID": 277154,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{4CECB1EB-240F-4BBD-B391-F875FF39B31B}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05297048384554,
+            38.913431810328035
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 99,
+          "EMB_TITLE": "Embassy of the Republic of Madagascar",
+          "COUNTRY": "Madagascar",
+          "ADDRESS": "2374 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 265-5525",
+          "WEBURL": "http://www.madagascar-embassy.org/embassy/index.html",
+          "GIS_ID": "temp_107",
+          "XCOORD": 395408.52,
+          "YCOORD": 138385.09,
+          "MAR_ID": 218988,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{DE407FD4-9BCD-4FEC-8806-CBE13CB6F3CB}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.0529436550239,
+            38.91332624474335
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 100,
+          "EMB_TITLE": "Embassy of the Dominican Republic",
+          "COUNTRY": "Dominican Republic",
+          "ADDRESS": "1715 22ND STREET NW",
+          "TELEPHONE": "(202) 332-6280",
+          "WEBURL": "http://www.domrep.org/",
+          "GIS_ID": "temp_38",
+          "XCOORD": 395797.59,
+          "YCOORD": 138372.41,
+          "MAR_ID": 234916,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{43C000E2-5061-40A5-9F24-0AFFE3A6F5E4}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04845746508317,
+            38.91321396567204
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 101,
+          "EMB_TITLE": "Embassy of Rwanda",
+          "COUNTRY": "Rwanda",
+          "ADDRESS": "1714 NEW HAMPSHIRE AVENUE NW",
+          "TELEPHONE": "(202) 232-2882",
+          "WEBURL": "http://www.rwandaembassy.org/",
+          "GIS_ID": "temp_71",
+          "XCOORD": 396485.83,
+          "YCOORD": 138369.89,
+          "MAR_ID": 241607,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{0A0F432D-B38C-48C0-87E8-4A9B90EC4008}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04052181792228,
+            38.91319428633485
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 102,
+          "EMB_TITLE": "Embassy of Haiti",
+          "COUNTRY": "Haiti",
+          "ADDRESS": "2311 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 332-4090",
+          "WEBURL": "http://www.haiti.org/",
+          "GIS_ID": "temp_98",
+          "XCOORD": 395545.99,
+          "YCOORD": 138363.03,
+          "MAR_ID": 218127,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{D7AAD44E-3B51-463C-81D0-65B13562C47B}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05135843506434,
+            38.913128228308
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 103,
+          "EMB_TITLE": "Embassy of the Kingdom of Swaziland",
+          "COUNTRY": "Swaziland",
+          "ADDRESS": "1712 NEW HAMPSHIRE AVENUE NW",
+          "TELEPHONE": "(202) 234-5002",
+          "WEBURL": "http://www.gov.sz/index.php?option=com_content&view=article&id=453&Itemid=270",
+          "GIS_ID": "temp_130",
+          "XCOORD": 396477.63,
+          "YCOORD": 138362.12,
+          "MAR_ID": 241638,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{3B450820-472E-4098-B64B-2632D2EBD24D}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04062656754694,
+            38.91312757022862
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 104,
+          "EMB_TITLE": "Embassy of The State of Eritrea",
+          "COUNTRY": "Eritrea",
+          "ADDRESS": "1708 NEW HAMPSHIRE AVENUE NW",
+          "TELEPHONE": "(202) 319-1991",
+          "WEBURL": "http://www.embassyeritrea.org",
+          "GIS_ID": "temp_41",
+          "XCOORD": 396468.46,
+          "YCOORD": 138354.29,
+          "MAR_ID": 241639,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{BFC24B93-878C-4CA5-8C80-64A76EADA85E}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04072201945526,
+            38.91305368662986
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 105,
+          "EMB_TITLE": "Embassy of the Kyrgyz Republic",
+          "COUNTRY": "Kyrgyzstan",
+          "ADDRESS": "2360 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 449-9822",
+          "WEBURL": "http://www.kgembassy.org/",
+          "GIS_ID": "temp_18",
+          "XCOORD": 395451.5,
+          "YCOORD": 138354.18,
+          "MAR_ID": 218985,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{6882C0FC-2B26-4A16-BD99-4CB4A662960D}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05244787592562,
+            38.9130480205434
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 106,
+          "EMB_TITLE": "Embassy of Armenia",
+          "COUNTRY": "Armenia",
+          "ADDRESS": "2225 R STREET NW",
+          "TELEPHONE": "(202) 319-1976",
+          "WEBURL": "http://usa.mfa.am/en/",
+          "GIS_ID": "temp_82",
+          "XCOORD": 395674.37,
+          "YCOORD": 138332.65,
+          "MAR_ID": 234950,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{E1C7D4EE-40AD-406A-8006-1EA9BFDB949B}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04987798176695,
+            38.91285519629228
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 107,
+          "EMB_TITLE": "Embassy of the Republic of Kenya",
+          "COUNTRY": "Kenya",
+          "ADDRESS": "2249 R STREET NW",
+          "TELEPHONE": "(202) 387-6101",
+          "WEBURL": "http://www.kenyaembassy.com/",
+          "GIS_ID": "temp_102",
+          "XCOORD": 395637.66,
+          "YCOORD": 138329.68,
+          "MAR_ID": 279582,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{10999161-2572-4A95-A423-579FF166CD1D}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05030123915573,
+            38.912828260069425
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 108,
+          "EMB_TITLE": "Embassy of the Republic of Cyprus",
+          "COUNTRY": "Cyprus",
+          "ADDRESS": "2211 R STREET NW",
+          "TELEPHONE": "(202) 462-5772",
+          "WEBURL": "http://www.cyprusembassy.net/",
+          "GIS_ID": "temp_37",
+          "XCOORD": 395716.24,
+          "YCOORD": 138329.32,
+          "MAR_ID": 234926,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{B15CA0EA-66F4-487B-A4C2-01AD71FD669B}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04939518852905,
+            38.91282540362002
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 109,
+          "EMB_TITLE": "Embassy of the Republic of Sierra Leone",
+          "COUNTRY": "Sierra Leone",
+          "ADDRESS": "1701 19TH STREET NW",
+          "TELEPHONE": "(202) 939-9261",
+          "WEBURL": "http://embassyofsierraleone.net/",
+          "GIS_ID": "temp_73",
+          "XCOORD": 396255.39,
+          "YCOORD": 138328.43,
+          "MAR_ID": 241210,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{FFDE0E56-BBD6-4932-BB40-C583F5351849}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04317864025398,
+            38.91281984892356
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 110,
+          "EMB_TITLE": "Embassy of Grenada",
+          "COUNTRY": "Grenada",
+          "ADDRESS": "1701 NEW HAMPSHIRE AVENUE NW",
+          "TELEPHONE": "(202) 265-2561",
+          "WEBURL": "http://www.grenadaembassyusa.org",
+          "GIS_ID": "temp_96",
+          "XCOORD": 396518.07,
+          "YCOORD": 138325.34,
+          "MAR_ID": 241643,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{C5C537C5-4F31-4395-A806-BDAB0D1B4724}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04014985425512,
+            38.91279309319988
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 111,
+          "EMB_TITLE": "Embassy of Burkina Faso",
+          "COUNTRY": "Burkina Faso",
+          "ADDRESS": "2340 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 332-5577",
+          "WEBURL": "http://burkina-usa.org/",
+          "GIS_ID": "temp_138",
+          "XCOORD": 395495.46,
+          "YCOORD": 138311.21,
+          "MAR_ID": 218978,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{F2F489E4-2EA2-4CA8-B622-0221C98DB5B2}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05194072192145,
+            38.912661158691975
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 112,
+          "EMB_TITLE": "Embassy of Guatemala",
+          "COUNTRY": "Guatemala",
+          "ADDRESS": "2220 R STREET NW",
+          "TELEPHONE": "(202) 745-4952",
+          "WEBURL": "http://www.guatemala-embassy.org/",
+          "GIS_ID": "temp_45",
+          "XCOORD": 395701.32,
+          "YCOORD": 138287.65,
+          "MAR_ID": 218658,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{6F72D594-F520-4BDA-979B-EECF516FE4FC}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04956695921574,
+            38.91244995330636
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 113,
+          "EMB_TITLE": "Embassy of Mali",
+          "COUNTRY": "Mali",
+          "ADDRESS": "2130 R STREET NW",
+          "TELEPHONE": "(202) 332-2249",
+          "WEBURL": "http://www.maliembassy.us/",
+          "GIS_ID": "temp_157",
+          "XCOORD": 395825.2,
+          "YCOORD": 138283.6,
+          "MAR_ID": 234903,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{194007C3-FA26-4296-897B-8A8AA9021FC9}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04813857268047,
+            38.912414066758664
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 114,
+          "EMB_TITLE": "Embassy of Niger",
+          "COUNTRY": "Niger",
+          "ADDRESS": "2204 R STREET NW",
+          "TELEPHONE": "(202) 483-4224",
+          "WEBURL": "http://www.embassyofniger.org/",
+          "GIS_ID": "temp_60",
+          "XCOORD": 395735.67,
+          "YCOORD": 138282.06,
+          "MAR_ID": 218651,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{5582B0AE-5030-4947-8553-E89D95A139E1}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04917086192638,
+            38.91239976404345
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 115,
+          "EMB_TITLE": "Embassy of Georgia",
+          "COUNTRY": "Georgia",
+          "ADDRESS": "1824 R ST NW",
+          "TELEPHONE": "(202) 387-2390\n",
+          "WEBURL": "http://usa.mfa.gov.ge/index.php?lang_id=GEO&sec_id=38&lang_id=ENGsec_id=38",
+          "GIS_ID": "temp_23",
+          "XCOORD": 395721.5,
+          "YCOORD": 138245.31,
+          "MAR_ID": 234890,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{C6C145FD-562E-464C-B831-31288D001815}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04273920058121,
+            38.91239977139993
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 116,
+          "EMB_TITLE": "Embassy of the Republic of Bulgaria",
+          "COUNTRY": "Bulgaria",
+          "ADDRESS": "1621 22ND STREET NW",
+          "TELEPHONE": "(202) 387-0174",
+          "WEBURL": "http://www.bulgaria-embassy.org/",
+          "GIS_ID": "temp_14",
+          "XCOORD": 395789.36,
+          "YCOORD": 138279.84,
+          "MAR_ID": 234908,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{0ADF95E6-2741-4A07-9080-917D6B53DFD3}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04855179199323,
+            38.912380024415604
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 117,
+          "EMB_TITLE": "Embassy of the Republic of Nicaragua",
+          "COUNTRY": "Nicaragua",
+          "ADDRESS": "1627 NEW HAMPSHIRE AVENUE NW",
+          "TELEPHONE": "(202) 939-6531",
+          "WEBURL": "http://consuladodenicaragua.com/",
+          "GIS_ID": "temp_59",
+          "XCOORD": 396489.3,
+          "YCOORD": 138273.92,
+          "MAR_ID": 241666,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{28A6BC0A-B6A8-4276-A7D9-01901E75DC6A}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04048131696395,
+            38.912329769949444
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 118,
+          "EMB_TITLE": "Embassy of the Republic of Belarus",
+          "COUNTRY": "Belarus",
+          "ADDRESS": "1619 NEW HAMPSHIRE AVENUE NW",
+          "TELEPHONE": "(202) 986-1805",
+          "WEBURL": "http://usa.mfa.gov.by/en/embassy/",
+          "GIS_ID": "temp_9",
+          "XCOORD": 396468.97,
+          "YCOORD": 138252.6,
+          "MAR_ID": 241664,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{A8EDCE42-9252-47F5-9AF9-9DB17D21F493}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04071561601916,
+            38.912137630700954
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 119,
+          "EMB_TITLE": "Embassy of Greece",
+          "COUNTRY": "Greece",
+          "ADDRESS": "2217 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 939-1300",
+          "WEBURL": "http://www.mfa.gr/usa/en/the-embassy",
+          "GIS_ID": "temp_95",
+          "XCOORD": 395697.8,
+          "YCOORD": 138250.31,
+          "MAR_ID": 300774,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{EF5633DF-FA1D-4C22-B488-C3671D10AA48}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04960730003442,
+            38.9121135557019
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 120,
+          "EMB_TITLE": "Embassy of Turkmenistan",
+          "COUNTRY": "Turkmenistan",
+          "ADDRESS": "2207 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 588-1500",
+          "WEBURL": "http://www.turkmenistanembassy.org/",
+          "GIS_ID": "temp_124",
+          "XCOORD": 395726.08,
+          "YCOORD": 138240.33,
+          "MAR_ID": 234889,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{900A0F23-F5D6-4608-A20D-CB178ED6F6C8}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04928117676499,
+            38.91202379946734
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 121,
+          "EMB_TITLE": "Embassy of Estonia",
+          "COUNTRY": "Estonia",
+          "ADDRESS": "2131 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 588-0101\n",
+          "WEBURL": "http://www.estemb.org/",
+          "GIS_ID": "temp_21",
+          "XCOORD": 395787.38,
+          "YCOORD": 138227.22,
+          "MAR_ID": 218635,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{8A849411-701F-4B7D-88C3-719EFA7E694F}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04857429893174,
+            38.91190599611669
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 122,
+          "EMB_TITLE": "Embassy of Latvia",
+          "COUNTRY": "Latvia",
+          "ADDRESS": "2306 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 328-2840",
+          "WEBURL": "http://www.latvia-usa.org/",
+          "GIS_ID": "temp_104",
+          "XCOORD": 395560.03,
+          "YCOORD": 138213.7,
+          "MAR_ID": 234877,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{F9B7891B-E184-408E-85AC-33F955249AC3}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05119554921028,
+            38.911783111196144
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 123,
+          "EMB_TITLE": "Embassy of Ireland",
+          "COUNTRY": "Ireland",
+          "ADDRESS": "2234 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 462-3939",
+          "WEBURL": "http://www.embassyofireland.org\r\n",
+          "GIS_ID": "temp_51",
+          "XCOORD": 395645.31,
+          "YCOORD": 138202.9,
+          "MAR_ID": 234887,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{A7325D58-843C-401D-B7AF-BC52893B835A}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05021222852959,
+            38.911686220798465
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 124,
+          "EMB_TITLE": "Embassy of the Republic of Namibia",
+          "COUNTRY": "Namibia",
+          "ADDRESS": "1605 NEW HAMPSHIRE AVENUE NW",
+          "TELEPHONE": "(202) 986-0540",
+          "WEBURL": "http://www.namibianembassyusa.org",
+          "GIS_ID": "temp_55",
+          "XCOORD": 396423.92,
+          "YCOORD": 138196.71,
+          "MAR_ID": 279246,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{2EBDA300-A607-4E76-80BD-17C7D43DD495}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04123475844303,
+            38.91163397241195
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 125,
+          "EMB_TITLE": "Embassy of Zimbabwe",
+          "COUNTRY": "Zimbabwe",
+          "ADDRESS": "1608 NEW HAMPSHIRE AVENUE NW",
+          "TELEPHONE": "(202) 332-7100",
+          "WEBURL": "http://www.zimbabwe-embassy.us/",
+          "GIS_ID": "temp_127",
+          "XCOORD": 396349.32,
+          "YCOORD": 138190.65,
+          "MAR_ID": 241239,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{9A7E41DA-ADD3-4244-BB63-86F045B7AF2F}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04209486977119,
+            38.91157907513723
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 126,
+          "EMB_TITLE": "Embassy of the Commonwealth of the Bahamas",
+          "COUNTRY": "Bahamas",
+          "ADDRESS": "2220 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 319-2660",
+          "WEBURL": "http://www.embassy.org/embassies/bs.html",
+          "GIS_ID": "temp_7",
+          "XCOORD": 395678.27,
+          "YCOORD": 138187.16,
+          "MAR_ID": 279574,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{FDCB52D8-0FBD-48C7-8364-2DE312FC3C70}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04983209794428,
+            38.911544592229944
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 127,
+          "EMB_TITLE": "Embassy of Romania",
+          "COUNTRY": "Romania",
+          "ADDRESS": "1607 23RD STREET NW",
+          "TELEPHONE": "(202) 332-4846",
+          "WEBURL": "http://washington.mae.ro/",
+          "GIS_ID": "temp_69",
+          "XCOORD": 395627.2,
+          "YCOORD": 138186.91,
+          "MAR_ID": 234879,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{2F286ADC-519A-4424-AA3B-FB5FB2B9152D}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05042093648584,
+            38.911542087517766
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 128,
+          "EMB_TITLE": "Embassy of Argentina",
+          "COUNTRY": "Argentina",
+          "ADDRESS": "1600 NEW HAMPSHIRE AVENUE NW",
+          "TELEPHONE": "(202) 238-6400",
+          "WEBURL": "http://www.embassyofargentina.us/",
+          "GIS_ID": "temp_5",
+          "XCOORD": 396328.13,
+          "YCOORD": 138169.53,
+          "MAR_ID": 241243,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{F2BBAFC6-B1C7-467C-AEA7-87F59DACDEDD}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04233907891268,
+            38.911388730702235
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 129,
+          "EMB_TITLE": "Embassy of the Republic of The Sudan",
+          "COUNTRY": "Sudan",
+          "ADDRESS": "2210 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 338-8565",
+          "WEBURL": "http://www.sudanembassy.org/",
+          "GIS_ID": "temp_78",
+          "XCOORD": 395707.35,
+          "YCOORD": 138168.73,
+          "MAR_ID": 234883,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{1084C2B1-2ED9-4A95-8F2D-A4407596D055}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04949668859307,
+            38.911378711041905
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 130,
+          "EMB_TITLE": "Embassy of Togo",
+          "COUNTRY": "Togo",
+          "ADDRESS": "2208 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 234-4212",
+          "WEBURL": "http://www.togoleseembassy.com/",
+          "GIS_ID": "temp_79",
+          "XCOORD": 395713.54,
+          "YCOORD": 138166.75,
+          "MAR_ID": 234884,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{B9F3ACB5-92A3-4098-B0EB-78E21AD24ECF}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04942530533013,
+            38.91136090474125
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 131,
+          "EMB_TITLE": "Embassy of the Kingdom of Morocco",
+          "COUNTRY": "Morocco",
+          "ADDRESS": "1601 21ST STREET NW",
+          "TELEPHONE": "(202) 462-7979",
+          "WEBURL": "http://www.embassyofmorocco.us/",
+          "GIS_ID": "temp_114",
+          "XCOORD": 395978.11,
+          "YCOORD": 138166.04,
+          "MAR_ID": 289225,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{8EB9A391-E652-4189-8F33-8DEDA61622FB}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04637480113908,
+            38.91135575943568
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 132,
+          "EMB_TITLE": "Embassy of Luxembourg",
+          "COUNTRY": "Luxembourg",
+          "ADDRESS": "2200 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 265-4171",
+          "WEBURL": "http://washington.mae.lu/en",
+          "GIS_ID": "temp_155",
+          "XCOORD": 395737.73,
+          "YCOORD": 138164.44,
+          "MAR_ID": 234886,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{CD2D3B51-31E9-4D1F-B98D-4D60EAC1B7AD}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04914637956983,
+            38.91134021312826
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 133,
+          "EMB_TITLE": "Embassy of India",
+          "COUNTRY": "India",
+          "ADDRESS": "2107 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 939-7000",
+          "WEBURL": "http://www.indianembassy.org/",
+          "GIS_ID": "temp_49",
+          "XCOORD": 395921.57,
+          "YCOORD": 138162.59,
+          "MAR_ID": 294537,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{36E0B8A4-F35F-4D77-91D4-D7EC665F908A}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.0470266884921,
+            38.9113244200886
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 134,
+          "EMB_TITLE": "Embassy of Jamaica",
+          "COUNTRY": "Jamaica",
+          "ADDRESS": "1520 NEW HAMPSHIRE AVENUE NW",
+          "TELEPHONE": "(202) 452-0660",
+          "WEBURL": "http://www.embassyofjamaica.org",
+          "GIS_ID": "temp_101",
+          "XCOORD": 396288.86,
+          "YCOORD": 138101.68,
+          "MAR_ID": 225682,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{1D84FBBB-4521-4206-AFA5-D13BCD7CEFA0}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04279149664838,
+            38.91077734979222
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 135,
+          "EMB_TITLE": "Embassy of the Republic of Botswana",
+          "COUNTRY": "Botswana",
+          "ADDRESS": "1531-1533 NEW HAMPSHIRE NW",
+          "TELEPHONE": "(202) 244-4990",
+          "WEBURL": "http://www.botswanaembassy.org/",
+          "GIS_ID": "temp_86",
+          "XCOORD": 396359,
+          "YCOORD": 138100.05,
+          "MAR_ID": 225750,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{B309C9C5-7726-460F-924A-920D8F82310B}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04198277829998,
+            38.91076295958814
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 136,
+          "EMB_TITLE": "Embassy of the Republic of Mozambique",
+          "COUNTRY": "Mozambique",
+          "ADDRESS": "1525 NEW HAMPSHIRE AVENUE NW",
+          "TELEPHONE": "(202) 293-7146",
+          "WEBURL": "http://www.embamoc-usa.org/",
+          "GIS_ID": "temp_115",
+          "XCOORD": 396343.78,
+          "YCOORD": 138082.39,
+          "MAR_ID": 225716,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{D294D6FB-6780-4102-BF9E-D3CC686AECBA}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04215816985075,
+            38.91060380908034
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 137,
+          "EMB_TITLE": "Embassy of the Republic of Indonesia",
+          "COUNTRY": "Indonesia",
+          "ADDRESS": "2020 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 775-5200",
+          "WEBURL": "http://www.embassyofindonesia.org/",
+          "GIS_ID": "temp_50",
+          "XCOORD": 395986.77,
+          "YCOORD": 138042.94,
+          "MAR_ID": 294535,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{628CAF11-0E79-4DA7-BC01-F28C04C296BE}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04627423158622,
+            38.91024687218073
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 138,
+          "EMB_TITLE": "Embassy of Portugal",
+          "COUNTRY": "Portugal",
+          "ADDRESS": "2012 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 350-5400",
+          "WEBURL": "http://www.embassyportugal-us.org/Embassy_of_Portugal/Home.html",
+          "GIS_ID": "temp_117",
+          "XCOORD": 396031.46,
+          "YCOORD": 138028.15,
+          "MAR_ID": 225933,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{D1C297C1-4263-4E3A-A81D-C9EB19983877}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04575887711175,
+            38.910113841736326
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 139,
+          "EMB_TITLE": "Embassy of Papua New Guinea",
+          "COUNTRY": "Papua New Guinea",
+          "ADDRESS": "1779 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 745-3680",
+          "WEBURL": "http://www.pngembassy.org/\n",
+          "GIS_ID": "temp_140",
+          "XCOORD": 396444.12,
+          "YCOORD": 137937.75,
+          "MAR_ID": 241732,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{C4AD4D0E-8E77-47A4-89B5-6C78364DA9AC}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04100050984323,
+            38.90930125404517
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 140,
+          "EMB_TITLE": "Embassy of El Salvador",
+          "COUNTRY": "El Salvador",
+          "ADDRESS": "1400 16TH STREET NW",
+          "TELEPHONE": "(202) 595-7500",
+          "WEBURL": "http://www.elsalvador.org/",
+          "GIS_ID": "temp_40",
+          "XCOORD": 396784.61,
+          "YCOORD": 137912.52,
+          "MAR_ID": 242015,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{71BB9562-E702-4B74-8BDA-0860FCF31A99}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.03707462190769,
+            38.90907527622558
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 141,
+          "EMB_TITLE": "Embassy of the Republic of Kazakhstan",
+          "COUNTRY": "Kazakhstan",
+          "ADDRESS": "1401 16TH STREET NW",
+          "TELEPHONE": "(202) 232-5488",
+          "WEBURL": "http://www.kazakhembus.com/",
+          "GIS_ID": "temp_27",
+          "XCOORD": 396866.69,
+          "YCOORD": 137890.15,
+          "MAR_ID": 242318,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{D0379144-E4DE-424D-94D8-BF79868705B4}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.03612818831063,
+            38.90887406502483
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 142,
+          "EMB_TITLE": "Embassy of Uzbekistan",
+          "COUNTRY": "Uzbekistan",
+          "ADDRESS": "1746 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 887-5300",
+          "WEBURL": "http://www.uzbekistan.org/",
+          "GIS_ID": "temp_170",
+          "XCOORD": 396479.84,
+          "YCOORD": 137823.79,
+          "MAR_ID": 241734,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{868B2A3C-1195-40E0-873D-99BC670A3CB6}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04058808483487,
+            38.90827480683765
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 143,
+          "EMB_TITLE": "Embassy of Albania",
+          "COUNTRY": "Albania",
+          "ADDRESS": "1312 18TH STREET NW",
+          "TELEPHONE": "(202) 223-4942",
+          "WEBURL": "http://www.embassyofalbania.org/",
+          "GIS_ID": "temp_80",
+          "XCOORD": 396365.31,
+          "YCOORD": 137808.58,
+          "MAR_ID": 241265,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{8D86A92C-2C5D-4FE5-9542-09B2AD69FD70}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04189474719881,
+            38.90811308715175
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 144,
+          "EMB_TITLE": "Embassy of Australia",
+          "COUNTRY": "Australia",
+          "ADDRESS": "1601 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 797-3000",
+          "WEBURL": "http://www.usa.embassy.gov.au/",
+          "GIS_ID": "temp_6",
+          "XCOORD": 396787.97,
+          "YCOORD": 137794.64,
+          "MAR_ID": 279241,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{AB73496D-E274-46BF-A574-5F1AB66ED81F}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.0370353538922,
+            38.90801339372649
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 145,
+          "EMB_TITLE": "Embassy of Chile",
+          "COUNTRY": "Chile",
+          "ADDRESS": "1732 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 785-1746",
+          "WEBURL": "http://www.chile-usa.org/",
+          "GIS_ID": "temp_31",
+          "XCOORD": 396546,
+          "YCOORD": 137793.87,
+          "MAR_ID": 241756,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{FC214212-ACB4-49EC-92C9-6D614EF4886F}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.03982514053091,
+            38.90800553962859
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 146,
+          "EMB_TITLE": "Embassy of the Republic of Trinidad and Tobago",
+          "COUNTRY": "Trinidad and Tobago",
+          "ADDRESS": "1708 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 467-6490",
+          "WEBURL": "http://www.ttembassy.org",
+          "GIS_ID": "temp_165",
+          "XCOORD": 396618.1,
+          "YCOORD": 137766.67,
+          "MAR_ID": 241759,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{4EE261E7-6B78-4F6F-A5E5-B88C3340F045}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.03899373048324,
+            38.90776079300573
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 147,
+          "EMB_TITLE": "Embassy of Peru",
+          "COUNTRY": "Peru",
+          "ADDRESS": "1700 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 833-9860",
+          "WEBURL": "http://www.embassyofperu.org/",
+          "GIS_ID": "temp_65",
+          "XCOORD": 396635.06,
+          "YCOORD": 137760.35,
+          "MAR_ID": 241742,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{7A79A54D-1BC4-408D-8209-D9F1978CD074}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.03879816006707,
+            38.90770392535342
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 148,
+          "EMB_TITLE": "Embassy of the Philippines",
+          "COUNTRY": "Philippines",
+          "ADDRESS": "1600 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 467-9300",
+          "WEBURL": "http://www.philippineembassy-usa.org/",
+          "GIS_ID": "temp_66",
+          "XCOORD": 396695.3,
+          "YCOORD": 137735.54,
+          "MAR_ID": 242016,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{04F1CC42-01BD-43D7-A73F-2BD64B5103E2}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.03810350724228,
+            38.9074806568428
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 149,
+          "EMB_TITLE": "Embassy of the Federated States of Micronesia",
+          "COUNTRY": "Micronesia",
+          "ADDRESS": "1725 N STREET NW",
+          "TELEPHONE": "(202) 223-4383",
+          "WEBURL": "http://www.fsmembassydc.org/",
+          "GIS_ID": "temp_111",
+          "XCOORD": 396572.71,
+          "YCOORD": 137730.71,
+          "MAR_ID": 241752,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{D7CB6FDB-D59E-4AD2-BC96-464DB2E962C8}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.03951687266675,
+            38.9074366770062
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 150,
+          "EMB_TITLE": "Embassy of the Republic of Mauritius",
+          "COUNTRY": "Mauritius",
+          "ADDRESS": "1709 N STREET NW",
+          "TELEPHONE": "(202) 244-1491",
+          "WEBURL": "http://www.gov.mu/portal/sites/mfamission/washington/index.htm",
+          "GIS_ID": "temp_110",
+          "XCOORD": 396618.85,
+          "YCOORD": 137728.9,
+          "MAR_ID": 241739,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{D9668EBE-9FA0-42BE-A5FF-61261428BB17}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.03897568259433,
+            38.9074153558769
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 151,
+          "EMB_TITLE": "Embassy of the Republic of Tunisia",
+          "COUNTRY": "Tunisia",
+          "ADDRESS": "1515 MASSACHUSETTS AVENUE NW",
+          "TELEPHONE": "(202) 862-1850",
+          "WEBURL": "http://www.tunconsusa.org/",
+          "GIS_ID": "temp_166",
+          "XCOORD": 396967.72,
+          "YCOORD": 137682.98,
+          "MAR_ID": 242320,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{26AFBD6A-6E23-4008-9B07-0F7083778FAF}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.03496243507405,
+            38.90700816023133
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 152,
+          "EMB_TITLE": "Embassy of the Socialist Republic of Vietnam",
+          "COUNTRY": "Vietnam",
+          "ADDRESS": "1233 20TH STREET NW",
+          "TELEPHONE": "(202) 861-0737",
+          "WEBURL": "http://www.vietnamembassy-usa.org/",
+          "GIS_ID": "temp_172",
+          "XCOORD": 396140.68,
+          "YCOORD": 137650.38,
+          "MAR_ID": 243288,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{DDE27612-B33A-4D55-9707-F0F2DA8547BA}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.0444974660487,
+            38.90671124545492
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 153,
+          "EMB_TITLE": "Embassy of the United Republic of Tanzania",
+          "COUNTRY": "Tanzania",
+          "ADDRESS": "1232 22ND STREET NW",
+          "TELEPHONE": "(202) 939-6125",
+          "WEBURL": "http://www.tanzaniaembassy-us.org/",
+          "GIS_ID": "temp_123",
+          "XCOORD": 395739.86,
+          "YCOORD": 137583.41,
+          "MAR_ID": 276968,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{E561886B-5063-4195-B3F3-0A62DD02440A}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04911821588217,
+            38.90610611388155
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 154,
+          "EMB_TITLE": "Embassy of the State of Qatar",
+          "COUNTRY": "Qatar",
+          "ADDRESS": "2555 M STREET NW",
+          "TELEPHONE": "(202) 274-1600",
+          "WEBURL": "http://www.qatarembassy.net/",
+          "GIS_ID": "temp_68",
+          "XCOORD": 395279.61,
+          "YCOORD": 137517.71,
+          "MAR_ID": 273877,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{6D7F04EA-FF0C-4204-98B4-D878AA0A4518}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05442406937044,
+            38.90551190490752
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 155,
+          "EMB_TITLE": "Embassy of Mongolia",
+          "COUNTRY": "Mongolia",
+          "ADDRESS": "2833 M STREET NW",
+          "TELEPHONE": "(202) 333-7117",
+          "WEBURL": "http://www.mongolianembassy.us",
+          "GIS_ID": "temp_113",
+          "XCOORD": 394980.35,
+          "YCOORD": 137504.4,
+          "MAR_ID": 272090,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{20DD2A37-0000-4262-A31C-9D159BAF91EF}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.0579863954114,
+            38.90541164872882
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 156,
+          "EMB_TITLE": "Embassy of the Republic of Djibouti",
+          "COUNTRY": "Djibouti",
+          "ADDRESS": "1156 15TH STREET NW",
+          "TELEPHONE": "(202) 331-0270",
+          "WEBURL": "http://www.embassy.org/embassies/dj.html",
+          "GIS_ID": "temp_91",
+          "XCOORD": 396961.78,
+          "YCOORD": 137503.5,
+          "MAR_ID": 242325,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{9CD7411C-A585-41E3-89B6-A45C3F26CA2C}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.03503012518364,
+            38.90539132113507
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 157,
+          "EMB_TITLE": "Embassy of Ukraine",
+          "COUNTRY": "Ukraine",
+          "ADDRESS": "3350 M STREET NW",
+          "TELEPHONE": "(202) 349-2920",
+          "WEBURL": "http://www.mfa.gov.ua/usa/en/",
+          "GIS_ID": "temp_169",
+          "XCOORD": 394147.87,
+          "YCOORD": 137454.43,
+          "MAR_ID": 294564,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{1FE74B0A-FCE0-4A71-9186-A2B53874F231}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.06747145440649,
+            38.90493504964571
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 158,
+          "EMB_TITLE": "Embassy of the Republic of Kosovo",
+          "COUNTRY": "Kosovo",
+          "ADDRESS": "1101 30TH STREET NW",
+          "TELEPHONE": "(202) 380-3581\n",
+          "WEBURL": "http://ambasada-ks.net/us/",
+          "GIS_ID": "temp_25",
+          "XCOORD": 394896.49,
+          "YCOORD": 137380.65,
+          "MAR_ID": 275730,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{952AA144-D306-4935-B396-30ECC439BBE3}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05884007334386,
+            38.904275079243206
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 159,
+          "EMB_TITLE": "Embassy of the Democratic Republic of Congo",
+          "COUNTRY": "Congo, Democratic Rep.",
+          "ADDRESS": "1100 CONNECTICUT AVENUE NW",
+          "TELEPHONE": "(202) 234-7690",
+          "WEBURL": "http://www.ambardcusa.org/",
+          "GIS_ID": "temp_34",
+          "XCOORD": 396583.72,
+          "YCOORD": 137505.48,
+          "MAR_ID": 241792,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{DFE3C77A-AD73-4E33-833D-2CBB4C1A867B}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04064022937455,
+            38.904080140074655
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 160,
+          "EMB_TITLE": "Embassy of the Republic of the Fiji",
+          "COUNTRY": "Fiji",
+          "ADDRESS": "1707 L ST NW",
+          "TELEPHONE": "(202) 466-8320\n",
+          "WEBURL": "http://www.fijiembassydc.com/",
+          "GIS_ID": "temp_22",
+          "XCOORD": 396067.42,
+          "YCOORD": 137485.27,
+          "MAR_ID": 240946,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{E05D5C27-E39D-4300-97F8-0F0510AEB927}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.03922666079065,
+            38.904051796531675
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 161,
+          "EMB_TITLE": "Embassy of Ecuador",
+          "COUNTRY": "Ecuador",
+          "ADDRESS": "1050 30TH STREET NW",
+          "TELEPHONE": "(202) 465-8140",
+          "WEBURL": "http://www.ecuador.org/",
+          "GIS_ID": "temp_39",
+          "XCOORD": 394857.42,
+          "YCOORD": 137342.4,
+          "MAR_ID": 293190,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{E741A2F2-5D2B-48B1-85E1-FBD27CADBE07}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.0592902549817,
+            38.90393026402455
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 162,
+          "EMB_TITLE": "Embassy of the Bolivarian Republic of Venezuela",
+          "COUNTRY": "Venezuela",
+          "ADDRESS": "1099 30TH STREET NW",
+          "TELEPHONE": "(202) 342-2214",
+          "WEBURL": "http://venezuela-us.org/",
+          "GIS_ID": "temp_171",
+          "XCOORD": 394888.25,
+          "YCOORD": 137327.94,
+          "MAR_ID": 273818,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{F158A619-8A41-436C-8259-CFBFD40EE093}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05893467901656,
+            38.90380020113119
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 163,
+          "EMB_TITLE": "Royal Thai Embassy",
+          "COUNTRY": "Thailand",
+          "ADDRESS": "1024 WISCONSIN AVENUE NW",
+          "TELEPHONE": "(202) 944-3600",
+          "WEBURL": "http://www.thaiembdc.org/wp/",
+          "GIS_ID": "temp_164",
+          "XCOORD": 394510.25,
+          "YCOORD": 137281.91,
+          "MAR_ID": 276426,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{040CC5D2-68BC-47BB-8A1A-A61EC3606CFF}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.06329219996464,
+            38.90338326699448
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 164,
+          "EMB_TITLE": "Embassy of Spain",
+          "COUNTRY": "Spain",
+          "ADDRESS": "2375 PENNSYLVANIA AVENUE NW",
+          "TELEPHONE": "(202) 452-0100",
+          "WEBURL": "http://www.spainemb.org/ingles/indexing.htm",
+          "GIS_ID": "temp_75",
+          "XCOORD": 395563.74,
+          "YCOORD": 137257.19,
+          "MAR_ID": 242745,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{DD30B25A-DE79-491A-A086-1C02CD5C775D}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.0511466277936,
+            38.90316652915816
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 165,
+          "EMB_TITLE": "Embassy of the Republic of South Sudan",
+          "COUNTRY": "South Sudan",
+          "ADDRESS": "1015 31ST STREET NW",
+          "TELEPHONE": "(202) 293-7940",
+          "WEBURL": "http://www.gossmission.org/goss/",
+          "GIS_ID": "temp_3",
+          "XCOORD": 396140.68,
+          "YCOORD": 137650.38,
+          "MAR_ID": 243288,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{97B641EF-F4A8-4CEA-9A81-281F5C1E5999}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.06083151806261,
+            38.90312855668839
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 166,
+          "EMB_TITLE": "Embassy of Tajikistan",
+          "COUNTRY": "Tajikistan",
+          "ADDRESS": "1005 NEW HAMPSHIRE AVENUE NW",
+          "TELEPHONE": "(202)-223-6090",
+          "WEBURL": "http://www.tjus.org/",
+          "GIS_ID": "temp_150",
+          "XCOORD": 395730.57,
+          "YCOORD": 137252.73,
+          "MAR_ID": 242373,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{BD02689F-CD7E-4E5B-A3DC-75B62128823C}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04922326617066,
+            38.90312717811844
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 167,
+          "EMB_TITLE": "Delegation of the European Union",
+          "COUNTRY": "European Union",
+          "ADDRESS": "2175 K STREET NW",
+          "TELEPHONE": "(202) 862-9500",
+          "WEBURL": "http://www.euintheus.org/",
+          "GIS_ID": "temp_149",
+          "XCOORD": 395797.81,
+          "YCOORD": 137225.42,
+          "MAR_ID": 279563,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{9F696130-8051-483D-9C14-5D944E7D679F}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.048447897824,
+            38.90288148402148
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 168,
+          "EMB_TITLE": "Embassy of Iceland",
+          "COUNTRY": "Iceland",
+          "ADDRESS": "2900 K STREET NW",
+          "TELEPHONE": "(202) 265-6653",
+          "WEBURL": "http://www.iceland.is/iceland-abroad/us",
+          "GIS_ID": "temp_48",
+          "XCOORD": 394914.05,
+          "YCOORD": 137127.22,
+          "MAR_ID": 273874,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{8B775347-4BEF-4808-A87C-5CC5B2F96E72}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05863574939339,
+            38.901992194037724
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 169,
+          "EMB_TITLE": "Embassy of Sweden",
+          "COUNTRY": "Sweden",
+          "ADDRESS": "2900 K STREET NW",
+          "TELEPHONE": "(202) 467-2600",
+          "WEBURL": "http://www.swedenabroad.com/en-GB/Embassies/Washington/",
+          "GIS_ID": "temp_161",
+          "XCOORD": 394914.05,
+          "YCOORD": 137127.22,
+          "MAR_ID": 273874,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{9360BF70-B68A-417E-AA45-6D6D26442BA9}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05863574939339,
+            38.901992194037724
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 170,
+          "EMB_TITLE": "Embassy of Liechtenstein",
+          "COUNTRY": "Liechtenstein",
+          "ADDRESS": "2900 K STREET NW",
+          "TELEPHONE": "(202) 331-0590\n",
+          "WEBURL": "http://www.liechtensteinusa.org/",
+          "GIS_ID": "temp_26",
+          "XCOORD": 394914.05,
+          "YCOORD": 137127.22,
+          "MAR_ID": 273874,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{BF96F931-FEC3-4652-9CDB-96E5FB0F7A15}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05863574939339,
+            38.901992194037724
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 171,
+          "EMB_TITLE": "Embassy of Uruguay",
+          "COUNTRY": "Uruguay",
+          "ADDRESS": "1913 I STREET NW",
+          "TELEPHONE": "(202) 331-1313",
+          "WEBURL": "http://www.mrree.gub.uy/frontend/page?1,embajada-eeuu,pagina-principal-embajada-eeuu,O,E,0,,",
+          "GIS_ID": "temp_126",
+          "XCOORD": 396170.31,
+          "YCOORD": 137083.16,
+          "MAR_ID": 242550,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{FA260853-2B80-49D8-9E58-1F4EA20B4722}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04415269041074,
+            38.901601657358874
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 172,
+          "EMB_TITLE": "Embassy of Mexico",
+          "COUNTRY": "Mexico",
+          "ADDRESS": "1911 PENNSYLVANIA AVENUE NW",
+          "TELEPHONE": "(202) 728-1600",
+          "WEBURL": "http://embamex.sre.gob.mx/eua/",
+          "GIS_ID": "temp_160",
+          "XCOORD": 396180.83,
+          "YCOORD": 136988.34,
+          "MAR_ID": 218564,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{87BD855B-73B5-4A38-8F2B-F10C7988C747}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04403088381915,
+            38.90074753068993
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 173,
+          "EMB_TITLE": "Embassy of Libya",
+          "COUNTRY": "Libya",
+          "ADDRESS": "2600 VIRGINIA AVENUE NW",
+          "TELEPHONE": "(202) 944-9601",
+          "WEBURL": "http://www.libyausaembassy.com/",
+          "GIS_ID": "temp_2",
+          "XCOORD": 395186.16,
+          "YCOORD": 136867.22,
+          "MAR_ID": 279603,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{971B51DB-AF49-4EEB-B8C8-C455281052D1}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05549690288719,
+            38.89965154454714
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 174,
+          "EMB_TITLE": "Embassy of the Republic of Palau",
+          "COUNTRY": "Palau",
+          "ADDRESS": "1701 PENNSYLVANIA AVENUE NW",
+          "TELEPHONE": "(202) 452-6814",
+          "WEBURL": "http://www.palauembassy.com/",
+          "GIS_ID": "temp_116",
+          "XCOORD": 396545.44,
+          "YCOORD": 136832.38,
+          "MAR_ID": 218414,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{2CDF06F5-2133-46A2-8A65-C2DF090B6054}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.0398254461252,
+            38.899343807821666
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 175,
+          "EMB_TITLE": "Royal Embassy of Saudi Arabia",
+          "COUNTRY": "Saudi Arabia",
+          "ADDRESS": "601 NEW HAMPSHIRE AVENUE NW",
+          "TELEPHONE": "(202) 342-3800",
+          "WEBURL": "http://www.saudiembassy.net/",
+          "GIS_ID": "temp_120",
+          "XCOORD": 395313.33,
+          "YCOORD": 136667.47,
+          "MAR_ID": 273876,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{5CA40D5F-DEBF-4BE4-B14F-12CF9CE1D01B}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.05402950679016,
+            38.8978528207669
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 176,
+          "EMB_TITLE": "Embassy of Bosnia and Herzegovina",
+          "COUNTRY": "Bosnia and Herzegovina",
+          "ADDRESS": "2109 E STREET NW",
+          "TELEPHONE": "(202) 337-1500",
+          "WEBURL": "http://www.bhembassy.org/",
+          "GIS_ID": "temp_85",
+          "XCOORD": 395904.63,
+          "YCOORD": 136485.84,
+          "MAR_ID": 242540,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{4DBF5E10-AA9F-42BF-8806-BD5CFEB9F69D}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.04721200815986,
+            38.89621958549144
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "OBJECTID": 177,
+          "EMB_TITLE": "Embassy of Canada",
+          "COUNTRY": "Canada",
+          "ADDRESS": "501 PENNSYLVANIA AVENUE NW",
+          "TELEPHONE": "(202) 682-1740",
+          "WEBURL": "http://www.canadianembassy.org/",
+          "GIS_ID": "temp_17",
+          "XCOORD": 398408.18,
+          "YCOORD": 136105.84,
+          "MAR_ID": 279806,
+          "SE_ANNO_CAD_DATA": null,
+          "CREATOR": null,
+          "CREATED": null,
+          "EDITOR": null,
+          "EDITED": null,
+          "GLOBALID": "{3FECD01E-5A85-42AC-9A51-7816F8CDB38D}"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.01835124400588,
+            38.89280450464824
+          ]
+        }
+      }
+    ]
+  }

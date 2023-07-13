@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Maverick Webmap Approval</title>
+    <meta
+      name="viewport"
+      content="initial-scale=1,maximum-scale=1,user-scalable=no"
+    />
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+    />
+    <script src="https://unpkg.com/maplibre-gl@2.4.0/dist/maplibre-gl.js"></script>
+    <link
+      href="https://unpkg.com/maplibre-gl@2.4.0/dist/maplibre-gl.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="\Map\style.css" />
+  </head>
+  <body>
+    <div class="map-overlay">
+      <button id="filter-button">Toggle Embassy Week</button>
+      <button id="user-location-button">Go to my location</button>
+      <input type="text" id="search-input" placeholder="Enter embassy name" />
+      <button id="search-button">Search</button>
+      <!-- Add the "Measure Distance" button -->
+      <button id="measure-button">Measure Distance</button>
+    </div>
+    <div id="map"></div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <!-- <script type="module" src="\Map\js\map_measure.js"></script> -->
+
+    <script src="\Map\js\map.js"></script>
+
+    <script src="\Map\js\filter.js"></script>
+  </body>
+</html>
